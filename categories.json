@@ -1,0 +1,7 @@
+[
+  { "id": "science", "nameTr": "Bilim", "nameEn": "Science", "emoji": "🔬" },
+  { "id": "history", "nameTr": "Tarih", "nameEn": "History", "emoji": "🏛️" },
+  { "id": "geography", "nameTr": "Coğrafya", "nameEn": "Geography", "emoji": "🌍" },
+  { "id": "art", "nameTr": "Sanat", "nameEn": "Art", "emoji": "🎨" },
+  { "id": "nature", "nameTr": "Doğa", "nameEn": "Nature", "emoji": "🌿" }
+]

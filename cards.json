@@ -58,5 +58,605 @@
     "categoryId": "nature",
     "title": "A single cloud can weigh over a million pounds",
     "body": "Its water droplets are so light and dispersed that it still floats."
+  },
+  {
+    "id": "science-3",
+    "categoryId": "science",
+    "title": "A single lightning bolt is hotter than the sun's surface",
+    "body": "It can briefly reach about 30,000°C, roughly five times hotter than the surface of the sun."
+  },
+  {
+    "id": "science-4",
+    "categoryId": "science",
+    "title": "Humans share about 60% of their DNA with bananas",
+    "body": "Many basic genes that keep cells alive are shared across nearly all living things, including fruit."
+  },
+  {
+    "id": "science-5",
+    "categoryId": "science",
+    "title": "Your body contains trace amounts of gold",
+    "body": "The average adult carries about 0.2 milligrams of gold, mostly in the blood."
+  },
+  {
+    "id": "science-6",
+    "categoryId": "science",
+    "title": "A teaspoon of a neutron star would weigh billions of tons",
+    "body": "Neutron stars pack roughly the mass of the sun into a sphere only about 20 kilometers wide."
+  },
+  {
+    "id": "science-7",
+    "categoryId": "science",
+    "title": "Sound travels about four times faster in water than in air",
+    "body": "Water molecules are packed more tightly together, letting sound waves move through them faster."
+  },
+  {
+    "id": "science-8",
+    "categoryId": "science",
+    "title": "Bananas are slightly radioactive",
+    "body": "They contain potassium-40, a naturally occurring radioactive isotope, though far too little to be harmful."
+  },
+  {
+    "id": "science-9",
+    "categoryId": "science",
+    "title": "The human nose can distinguish over a trillion different scents",
+    "body": "A 2014 study found our sense of smell is far more powerful than previously believed."
+  },
+  {
+    "id": "science-10",
+    "categoryId": "science",
+    "title": "There are more possible chess games than atoms in the observable universe",
+    "body": "The number of possible move sequences, known as the Shannon number, vastly exceeds an estimated 10^80 atoms."
+  },
+  {
+    "id": "science-11",
+    "categoryId": "science",
+    "title": "Hot water can sometimes freeze faster than cold water",
+    "body": "This counterintuitive result, called the Mpemba effect, has been observed for centuries but is still debated by physicists."
+  },
+  {
+    "id": "science-12",
+    "categoryId": "science",
+    "title": "Your stomach lining renews itself every few days",
+    "body": "It replaces its mucus layer every two to four days so it doesn't digest itself."
+  },
+  {
+    "id": "science-13",
+    "categoryId": "science",
+    "title": "Sunlight takes about eight minutes to reach Earth",
+    "body": "Light travels at roughly 300,000 km per second, and the sun is about 150 million km away."
+  },
+  {
+    "id": "science-14",
+    "categoryId": "science",
+    "title": "Venus is the hottest planet in the solar system",
+    "body": "Despite being farther from the sun than Mercury, its thick atmosphere traps heat and pushes surface temperatures above 460°C."
+  },
+  {
+    "id": "science-15",
+    "categoryId": "science",
+    "title": "Metal feels colder than wood at the same temperature",
+    "body": "Metal conducts heat away from your skin much faster than wood, making it feel colder even when both are room temperature."
+  },
+  {
+    "id": "science-16",
+    "categoryId": "science",
+    "title": "The DNA in your body could stretch to the sun and back over 100 times",
+    "body": "Each cell holds about two meters of tightly coiled DNA, and the human body has trillions of cells."
+  },
+  {
+    "id": "science-17",
+    "categoryId": "science",
+    "title": "Light could circle the Earth seven times in one second",
+    "body": "It travels at about 300,000 kilometers per second, fast enough to loop the planet's roughly 40,000 km circumference repeatedly."
+  },
+  {
+    "id": "science-18",
+    "categoryId": "science",
+    "title": "Water is one of the few substances that expands when it freezes",
+    "body": "That's why ice floats instead of sinking, unlike most solids formed from their liquid state."
+  },
+  {
+    "id": "science-19",
+    "categoryId": "science",
+    "title": "Humans glow faintly in the dark",
+    "body": "A 2009 study found the human body emits extremely faint visible light, far too dim for the naked eye to detect."
+  },
+  {
+    "id": "science-20",
+    "categoryId": "science",
+    "title": "Glass is a true solid, not a slow-flowing liquid",
+    "body": "Old windows sometimes look thicker at the bottom because of how they were made, not because the glass has flowed over time."
+  },
+  {
+    "id": "science-21",
+    "categoryId": "science",
+    "title": "A day on Venus is longer than its year",
+    "body": "Venus takes about 243 Earth days to rotate once, but only about 225 Earth days to orbit the sun."
+  },
+  {
+    "id": "science-22",
+    "categoryId": "science",
+    "title": "Your brain uses about 20% of your body's total energy",
+    "body": "Despite making up only about 2% of body weight, the brain is one of the most energy-hungry organs."
+  },
+  {
+    "id": "nature-3",
+    "categoryId": "nature",
+    "title": "Octopuses have blue blood",
+    "body": "Their blood uses a copper-based protein called hemocyanin instead of iron-based hemoglobin, giving it a blue tint."
+  },
+  {
+    "id": "nature-4",
+    "categoryId": "nature",
+    "title": "Spider silk can be stronger than steel",
+    "body": "Gram for gram, some spider silks have a higher tensile strength than steel of the same thickness."
+  },
+  {
+    "id": "nature-5",
+    "categoryId": "nature",
+    "title": "The Great Barrier Reef is the largest living structure on Earth",
+    "body": "It's built by billions of tiny coral organisms and is even visible from space."
+  },
+  {
+    "id": "nature-6",
+    "categoryId": "nature",
+    "title": "Sharks are older than trees",
+    "body": "Sharks first appeared around 400 million years ago, tens of millions of years before the first trees evolved."
+  },
+  {
+    "id": "nature-7",
+    "categoryId": "nature",
+    "title": "A group of flamingos is called a flamboyance",
+    "body": "Many animal groups have unusual collective nouns, and flamingos have one of the most fitting ones."
+  },
+  {
+    "id": "nature-8",
+    "categoryId": "nature",
+    "title": "Honeybees communicate through a waggle dance",
+    "body": "By moving in a figure-eight pattern, a bee can tell hive mates the direction and distance to a food source."
+  },
+  {
+    "id": "nature-9",
+    "categoryId": "nature",
+    "title": "Wombat droppings are cube-shaped",
+    "body": "Scientists believe the unique shape stops the droppings from rolling away, helping wombats mark their territory."
+  },
+  {
+    "id": "nature-10",
+    "categoryId": "nature",
+    "title": "Sea otters hold hands while sleeping",
+    "body": "They do this, often in groups called rafts, so ocean currents don't drift them apart."
+  },
+  {
+    "id": "nature-11",
+    "categoryId": "nature",
+    "title": "The blue whale is the largest animal known to have ever existed",
+    "body": "It's even bigger than any dinosaur that has been discovered so far."
+  },
+  {
+    "id": "nature-12",
+    "categoryId": "nature",
+    "title": "Some turtles can breathe through their rear end",
+    "body": "Certain species absorb oxygen from water through their cloaca, letting them survive months underwater during winter."
+  },
+  {
+    "id": "nature-13",
+    "categoryId": "nature",
+    "title": "A group of crows is called a murder",
+    "body": "The origin of the term is unclear, but it has been used in English since at least the 15th century."
+  },
+  {
+    "id": "nature-14",
+    "categoryId": "nature",
+    "title": "Tardigrades can survive the vacuum of space",
+    "body": "These microscopic animals endured direct exposure to space in a 2007 European Space Agency experiment."
+  },
+  {
+    "id": "nature-15",
+    "categoryId": "nature",
+    "title": "Elephants can recognize themselves in a mirror",
+    "body": "This kind of self-awareness has only been confirmed in a small number of animal species."
+  },
+  {
+    "id": "nature-16",
+    "categoryId": "nature",
+    "title": "Cows form close friendships with other cows",
+    "body": "Studies show cows kept apart from a preferred companion show measurable signs of stress."
+  },
+  {
+    "id": "nature-17",
+    "categoryId": "nature",
+    "title": "The oldest known living tree is over 4,800 years old",
+    "body": "A bristlecone pine nicknamed Methuselah, growing in California, was already ancient when the pyramids were built."
+  },
+  {
+    "id": "nature-18",
+    "categoryId": "nature",
+    "title": "A baby kangaroo is about the size of a jellybean at birth",
+    "body": "It crawls into its mother's pouch immediately after birth to continue developing."
+  },
+  {
+    "id": "nature-19",
+    "categoryId": "nature",
+    "title": "Dolphins call each other by name",
+    "body": "Each dolphin develops its own signature whistle, which other dolphins use to identify and address it."
+  },
+  {
+    "id": "nature-20",
+    "categoryId": "nature",
+    "title": "The Venus flytrap can count",
+    "body": "It only snaps shut after its trigger hairs are touched twice within about 20 seconds, avoiding false alarms."
+  },
+  {
+    "id": "nature-21",
+    "categoryId": "nature",
+    "title": "Starfish have no brain or blood",
+    "body": "They use a water-based vascular system to move and distribute nutrients instead."
+  },
+  {
+    "id": "nature-22",
+    "categoryId": "nature",
+    "title": "Bamboo is the fastest-growing plant on Earth",
+    "body": "Some species can grow up to 91 centimeters in a single day."
+  },
+  {
+    "id": "history-3",
+    "categoryId": "history",
+    "title": "Oxford University is older than the Aztec Empire",
+    "body": "Teaching at Oxford began around 1096, while the Aztec Empire wasn't founded until 1428."
+  },
+  {
+    "id": "history-4",
+    "categoryId": "history",
+    "title": "The shortest war in recorded history lasted about 38 minutes",
+    "body": "The Anglo-Zanzibar War of 1896 ended in well under an hour after a British ultimatum expired."
+  },
+  {
+    "id": "history-5",
+    "categoryId": "history",
+    "title": "Ancient Egyptians treated wounds with moldy bread",
+    "body": "It's an early, unknowing use of antibacterial properties, centuries before antibiotics were understood."
+  },
+  {
+    "id": "history-6",
+    "categoryId": "history",
+    "title": "Napoleon wasn't actually short",
+    "body": "He stood about 1.7 meters tall, roughly average for a Frenchman of his era — the myth came from a mix-up in measurement units."
+  },
+  {
+    "id": "history-7",
+    "categoryId": "history",
+    "title": "The Ottoman Empire lasted over 600 years",
+    "body": "It ran from the late 13th century until it was formally abolished in 1922."
+  },
+  {
+    "id": "history-8",
+    "categoryId": "history",
+    "title": "Ancient Romans used urine as a teeth whitener",
+    "body": "Its ammonia content acted as a natural cleaning agent, a practice documented by Roman writers."
+  },
+  {
+    "id": "history-9",
+    "categoryId": "history",
+    "title": "The Code of Hammurabi is one of the earliest known written law codes",
+    "body": "It dates back to around 1754 BCE in ancient Babylon."
+  },
+  {
+    "id": "history-10",
+    "categoryId": "history",
+    "title": "The Wright brothers' first flight was shorter than a Boeing 747's wingspan",
+    "body": "Their 1903 flight covered about 36 meters, while a modern 747's wingspan is roughly 64 meters."
+  },
+  {
+    "id": "history-11",
+    "categoryId": "history",
+    "title": "Ancient Greek Olympians competed in the nude",
+    "body": "The word 'gymnasium' comes from the Greek 'gymnos,' meaning naked."
+  },
+  {
+    "id": "history-12",
+    "categoryId": "history",
+    "title": "The Library of Alexandria wasn't destroyed in a single fire",
+    "body": "Historical evidence suggests its decline happened gradually over centuries, not in one dramatic event."
+  },
+  {
+    "id": "history-13",
+    "categoryId": "history",
+    "title": "Vikings never actually wore horned helmets",
+    "body": "The image comes from 19th-century costume design for an opera, not historical evidence."
+  },
+  {
+    "id": "history-14",
+    "categoryId": "history",
+    "title": "The Berlin Wall stood for 28 years",
+    "body": "It divided the city from 1961 until it fell in 1989."
+  },
+  {
+    "id": "history-15",
+    "categoryId": "history",
+    "title": "Cleopatra was of Greek descent, not Egyptian",
+    "body": "She belonged to the Ptolemaic dynasty, descended from one of Alexander the Great's Macedonian generals."
+  },
+  {
+    "id": "history-16",
+    "categoryId": "history",
+    "title": "The printing press transformed the spread of knowledge in Europe",
+    "body": "Johannes Gutenberg introduced it around 1440, making books far cheaper and faster to produce."
+  },
+  {
+    "id": "history-17",
+    "categoryId": "history",
+    "title": "The Hundred Years' War actually lasted 116 years",
+    "body": "Fought between England and France, it ran from 1337 to 1453 with several long pauses."
+  },
+  {
+    "id": "history-18",
+    "categoryId": "history",
+    "title": "China used paper money centuries before Europe",
+    "body": "The Tang Dynasty began experimenting with it as early as the 7th century."
+  },
+  {
+    "id": "history-19",
+    "categoryId": "history",
+    "title": "The Statue of Liberty was a gift from France",
+    "body": "It was dedicated in 1886 to celebrate the friendship between the two nations."
+  },
+  {
+    "id": "history-20",
+    "categoryId": "history",
+    "title": "The wheel was first used for pottery, not transportation",
+    "body": "Ancient Mesopotamians developed it around 3500 BCE, and it took centuries before it was applied to vehicles."
+  },
+  {
+    "id": "history-21",
+    "categoryId": "history",
+    "title": "Alexander the Great had conquered most of the known world by 30",
+    "body": "He died at 32, having built one of the largest empires of the ancient world."
+  },
+  {
+    "id": "history-22",
+    "categoryId": "history",
+    "title": "The Great Fire of London destroyed most of the city in 1666",
+    "body": "Despite the scale of destruction, official records list a remarkably small number of confirmed deaths."
+  },
+  {
+    "id": "geography-3",
+    "categoryId": "geography",
+    "title": "Africa is the only continent in all four hemispheres",
+    "body": "It spans north, south, east, and west of the equator and prime meridian."
+  },
+  {
+    "id": "geography-4",
+    "categoryId": "geography",
+    "title": "Canada has more lakes than the rest of the world combined",
+    "body": "Estimates put the number at roughly two million lakes across the country."
+  },
+  {
+    "id": "geography-5",
+    "categoryId": "geography",
+    "title": "Mount Everest grows a few millimeters taller every year",
+    "body": "Ongoing tectonic activity between the Indian and Eurasian plates continues to push it upward."
+  },
+  {
+    "id": "geography-6",
+    "categoryId": "geography",
+    "title": "The Sahara Desert was once green",
+    "body": "Thousands of years ago it held lakes, rivers, and grassland during a period known as the African Humid Period."
+  },
+  {
+    "id": "geography-7",
+    "categoryId": "geography",
+    "title": "Chicago isn't actually one of the windiest US cities",
+    "body": "Despite its nickname 'the Windy City,' several other American cities have higher average wind speeds."
+  },
+  {
+    "id": "geography-8",
+    "categoryId": "geography",
+    "title": "Indonesia is made up of over 17,000 islands",
+    "body": "It's the world's largest archipelago nation, though only about 6,000 of the islands are inhabited."
+  },
+  {
+    "id": "geography-9",
+    "categoryId": "geography",
+    "title": "Point Nemo is the most remote place in any ocean",
+    "body": "It's so far from land that the nearest humans are sometimes astronauts aboard the International Space Station."
+  },
+  {
+    "id": "geography-10",
+    "categoryId": "geography",
+    "title": "The Amazon River supplies roughly a fifth of the world's freshwater runoff into the oceans",
+    "body": "Its basin drains an area larger than the continental United States."
+  },
+  {
+    "id": "geography-11",
+    "categoryId": "geography",
+    "title": "Alaska is both the westernmost and easternmost US state",
+    "body": "Its Aleutian Islands cross the 180th meridian, technically placing part of the state in the Eastern Hemisphere."
+  },
+  {
+    "id": "geography-12",
+    "categoryId": "geography",
+    "title": "You can float effortlessly in the Dead Sea",
+    "body": "Its water is roughly ten times saltier than the ocean, making the human body far more buoyant."
+  },
+  {
+    "id": "geography-13",
+    "categoryId": "geography",
+    "title": "Over 7,000 languages are spoken around the world today",
+    "body": "Many of them are spoken by only small communities and are at risk of disappearing."
+  },
+  {
+    "id": "geography-14",
+    "categoryId": "geography",
+    "title": "Australia is wider than the moon",
+    "body": "The country stretches about 4,000 kilometers east to west, while the moon's diameter is about 3,474 kilometers."
+  },
+  {
+    "id": "geography-15",
+    "categoryId": "geography",
+    "title": "The Nile is generally considered the world's longest river",
+    "body": "It stretches more than 6,650 kilometers through northeastern Africa."
+  },
+  {
+    "id": "geography-16",
+    "categoryId": "geography",
+    "title": "Greenland is the world's largest island that isn't a continent",
+    "body": "Australia is bigger but is classified as a continent rather than an island."
+  },
+  {
+    "id": "geography-17",
+    "categoryId": "geography",
+    "title": "Mauna Kea is taller than Mount Everest when measured base to peak",
+    "body": "Most of Mauna Kea lies underwater, but measured from its base on the ocean floor it exceeds Everest's height."
+  },
+  {
+    "id": "geography-18",
+    "categoryId": "geography",
+    "title": "Iceland has virtually no mosquitoes",
+    "body": "It's one of the few places in the world where the insect hasn't established a population, likely due to its unstable freeze-thaw cycles."
+  },
+  {
+    "id": "geography-19",
+    "categoryId": "geography",
+    "title": "Bhutan is a carbon-negative country",
+    "body": "Its vast forests absorb more carbon dioxide than the country produces."
+  },
+  {
+    "id": "geography-20",
+    "categoryId": "geography",
+    "title": "Istanbul is the only major city located on two continents",
+    "body": "The Bosphorus strait splits the city between Europe and Asia."
+  },
+  {
+    "id": "geography-21",
+    "categoryId": "geography",
+    "title": "The Caspian Sea is the world's largest inland body of water",
+    "body": "Despite its name, it's technically classified as the largest lake on Earth."
+  },
+  {
+    "id": "geography-22",
+    "categoryId": "geography",
+    "title": "Antarctica is the largest desert on Earth",
+    "body": "By the scientific definition based on low precipitation, it's larger and drier than the Sahara."
+  },
+  {
+    "id": "art-3",
+    "categoryId": "art",
+    "title": "Leonardo da Vinci wrote many notes in mirror script",
+    "body": "His handwriting ran right to left and is only easily readable when held up to a mirror."
+  },
+  {
+    "id": "art-4",
+    "categoryId": "art",
+    "title": "Michelangelo painted the Sistine Chapel ceiling standing up",
+    "body": "Contrary to popular belief, he worked on scaffolding while standing, not lying on his back."
+  },
+  {
+    "id": "art-5",
+    "categoryId": "art",
+    "title": "Salvador Dalí once wore a diving suit to give a lecture",
+    "body": "He said it represented 'diving into the human mind,' but nearly suffocated when the helmet got stuck."
+  },
+  {
+    "id": "art-6",
+    "categoryId": "art",
+    "title": "Picasso created an estimated 50,000 artworks in his lifetime",
+    "body": "The total spans paintings, sculptures, ceramics, and prints across a career of more than 75 years."
+  },
+  {
+    "id": "art-7",
+    "categoryId": "art",
+    "title": "A historic paint pigment was made from ground-up mummies",
+    "body": "'Mummy Brown' was a popular artists' pigment in the 18th and 19th centuries, made from embalmed remains."
+  },
+  {
+    "id": "art-8",
+    "categoryId": "art",
+    "title": "Edvard Munch's 'The Scream' exists in four versions",
+    "body": "He created the painting in both paint and pastel across multiple works between 1893 and 1910."
+  },
+  {
+    "id": "art-9",
+    "categoryId": "art",
+    "title": "The Louvre is the most visited art museum in the world",
+    "body": "Millions of visitors come each year, many specifically to see the Mona Lisa."
+  },
+  {
+    "id": "art-10",
+    "categoryId": "art",
+    "title": "Rembrandt painted more than 40 self-portraits",
+    "body": "He returned to his own likeness throughout his career more than almost any other artist of his time."
+  },
+  {
+    "id": "art-11",
+    "categoryId": "art",
+    "title": "Georgia O'Keeffe is known as the 'Mother of American Modernism'",
+    "body": "She's celebrated for her large-scale paintings of flowers and New Mexico desert landscapes."
+  },
+  {
+    "id": "art-12",
+    "categoryId": "art",
+    "title": "Michelangelo's David was carved from marble other sculptors had rejected",
+    "body": "The block had been considered flawed and unusable for nearly 25 years before he took it on."
+  },
+  {
+    "id": "art-13",
+    "categoryId": "art",
+    "title": "Frida Kahlo painted dozens of self-portraits",
+    "body": "Long periods of recovery from illness and injury meant she was often her own most available subject."
+  },
+  {
+    "id": "art-14",
+    "categoryId": "art",
+    "title": "The word 'Renaissance' means 'rebirth'",
+    "body": "It refers to the revival of classical art, science, and learning that began in 14th-century Italy."
+  },
+  {
+    "id": "art-15",
+    "categoryId": "art",
+    "title": "Monet painted the same haystacks dozens of times",
+    "body": "He studied how changing light and seasons transformed the same simple subject throughout the day."
+  },
+  {
+    "id": "art-16",
+    "categoryId": "art",
+    "title": "Jackson Pollock developed his signature style by flinging paint onto canvases on the floor",
+    "body": "This 'drip painting' technique became a defining feature of abstract expressionism."
+  },
+  {
+    "id": "art-17",
+    "categoryId": "art",
+    "title": "Ancient Roman and Greek sculptures were originally painted in bright colors",
+    "body": "Most of the paint has faded over centuries, leaving the bare white marble we associate with them today."
+  },
+  {
+    "id": "art-18",
+    "categoryId": "art",
+    "title": "The models for 'American Gothic' were the artist's sister and his dentist",
+    "body": "Grant Wood used people he knew personally to pose for the iconic 1930 painting."
+  },
+  {
+    "id": "art-19",
+    "categoryId": "art",
+    "title": "China's Terracotta Army contains over 8,000 unique soldier statues",
+    "body": "Each figure has individually sculpted facial features, hairstyles, and armor."
+  },
+  {
+    "id": "art-20",
+    "categoryId": "art",
+    "title": "A Banksy artwork partially shredded itself right after being sold",
+    "body": "'Girl with Balloon' triggered a hidden shredder built into its frame moments after selling at auction in 2018."
+  },
+  {
+    "id": "art-21",
+    "categoryId": "art",
+    "title": "Traditional origami uses a single sheet of paper with no cutting or gluing",
+    "body": "The Japanese paper-folding art relies entirely on folds to create its shapes."
+  },
+  {
+    "id": "art-22",
+    "categoryId": "art",
+    "title": "The Sistine Chapel ceiling took about four years to complete",
+    "body": "Michelangelo worked on it from 1508 to 1512, covering over 500 square meters."
   }
 ]

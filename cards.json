@@ -2,81 +2,61 @@
   {
     "id": "science-1",
     "categoryId": "science",
-    "titleTr": "Ahtapotların 3 kalbi vardır",
-    "titleEn": "Octopuses have three hearts",
-    "bodyTr": "İki kalp solungaçlara kan pompalar, üçüncüsü ise vücudun geri kalanına kan gönderir.",
-    "bodyEn": "Two hearts pump blood to the gills, while the third circulates it to the rest of the body."
+    "title": "Octopuses have three hearts",
+    "body": "Two hearts pump blood to the gills, while the third circulates it to the rest of the body."
   },
   {
     "id": "science-2",
     "categoryId": "science",
-    "titleTr": "Bal hiç bozulmaz",
-    "titleEn": "Honey never spoils",
-    "bodyTr": "Arkeologlar, binlerce yıllık mezarlarda hâlâ yenilebilir durumda bal bulmuştur.",
-    "bodyEn": "Archaeologists have found pots of honey in ancient tombs that are still edible."
+    "title": "Honey never spoils",
+    "body": "Archaeologists have found pots of honey in ancient tombs that are still edible."
   },
   {
     "id": "history-1",
     "categoryId": "history",
-    "titleTr": "Büyük Piramit 3800 yıl boyunca en yüksek yapıydı",
-    "titleEn": "The Great Pyramid was the tallest structure for 3,800 years",
-    "bodyTr": "Bu rekor, 1311'de Lincoln Katedrali tamamlanana kadar kırılmadı.",
-    "bodyEn": "The record stood until Lincoln Cathedral was completed in 1311."
+    "title": "The Great Pyramid was the tallest structure for 3,800 years",
+    "body": "The record stood until Lincoln Cathedral was completed in 1311."
   },
   {
     "id": "history-2",
     "categoryId": "history",
-    "titleTr": "Kleopatra, piramitlerin inşasından daha yakın zamanda yaşadı",
-    "titleEn": "Cleopatra lived closer to the Moon landing than to the pyramids",
-    "bodyTr": "Piramitler MÖ 2560, Kleopatra ise MÖ 30 civarında yaşadı.",
-    "bodyEn": "The pyramids were built around 2560 BCE; Cleopatra lived around 30 BCE."
+    "title": "Cleopatra lived closer to the Moon landing than to the pyramids",
+    "body": "The pyramids were built around 2560 BCE; Cleopatra lived around 30 BCE."
   },
   {
     "id": "geography-1",
     "categoryId": "geography",
-    "titleTr": "Rusya 11 zaman dilimine yayılır",
-    "titleEn": "Russia spans 11 time zones",
-    "bodyTr": "Dünyanın en büyük ülkesi, tek bir kıtadan fazla zaman dilimi kapsar.",
-    "bodyEn": "The world's largest country covers more time zones than any other nation."
+    "title": "Russia spans 11 time zones",
+    "body": "The world's largest country covers more time zones than any other nation."
   },
   {
     "id": "geography-2",
     "categoryId": "geography",
-    "titleTr": "Vatikan dünyanın en küçük ülkesidir",
-    "titleEn": "Vatican City is the world's smallest country",
-    "bodyTr": "Yüzölçümü yaklaşık 0,44 km² olup New York'taki bir parktan bile küçüktür.",
-    "bodyEn": "At roughly 0.44 km², it's smaller than many city parks."
+    "title": "Vatican City is the world's smallest country",
+    "body": "At roughly 0.44 km², it's smaller than many city parks."
   },
   {
     "id": "art-1",
     "categoryId": "art",
-    "titleTr": "Mona Lisa'nın kaşı yoktur",
-    "titleEn": "The Mona Lisa has no eyebrows",
-    "bodyTr": "O dönemde kaşları tıraş etmek moda kabul ediliyordu.",
-    "bodyEn": "Shaving eyebrows was considered fashionable in that era."
+    "title": "The Mona Lisa has no eyebrows",
+    "body": "Shaving eyebrows was considered fashionable in that era."
   },
   {
     "id": "art-2",
     "categoryId": "art",
-    "titleTr": "Van Gogh yaşamı boyunca sadece bir tablo sattı",
-    "titleEn": "Van Gogh sold only one painting in his lifetime",
-    "bodyTr": "Bugün eserleri en değerli tablolar arasında yer alıyor.",
-    "bodyEn": "Today his works rank among the most valuable paintings ever sold."
+    "title": "Van Gogh sold only one painting in his lifetime",
+    "body": "Today his works rank among the most valuable paintings ever sold."
   },
   {
     "id": "nature-1",
     "categoryId": "nature",
-    "titleTr": "Muzlar teknik olarak meyve değil, çilekler meyvedir",
-    "titleEn": "Bananas are berries, but strawberries aren't",
-    "bodyTr": "Botanik sınıflandırmaya göre muz bir 'berry', çilek ise değildir.",
-    "bodyEn": "Botanically, bananas qualify as berries while strawberries do not."
+    "title": "Bananas are berries, but strawberries aren't",
+    "body": "Botanically, bananas qualify as berries while strawberries do not."
   },
   {
     "id": "nature-2",
     "categoryId": "nature",
-    "titleTr": "Bir bulut tonlarca ağırlığında olabilir",
-    "titleEn": "A single cloud can weigh over a million pounds",
-    "bodyTr": "İçindeki su damlacıkları çok hafif olduğundan havada asılı kalır.",
-    "bodyEn": "Its water droplets are so light and dispersed that it still floats."
+    "title": "A single cloud can weigh over a million pounds",
+    "body": "Its water droplets are so light and dispersed that it still floats."
   }
 ]

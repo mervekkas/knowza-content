@@ -658,5 +658,2105 @@
     "categoryId": "art",
     "title": "The Sistine Chapel ceiling took about four years to complete",
     "body": "Michelangelo worked on it from 1508 to 1512, covering over 500 square meters."
+  },
+  {
+    "id": "science-23",
+    "categoryId": "science",
+    "title": "Saturn would float in water",
+    "body": "It's the only planet in the solar system less dense than water, so it would float in a large enough bathtub."
+  },
+  {
+    "id": "science-24",
+    "categoryId": "science",
+    "title": "Absolute zero is the coldest temperature theoretically possible",
+    "body": "It sits at -273.15°C, the point where atomic motion would completely stop."
+  },
+  {
+    "id": "science-25",
+    "categoryId": "science",
+    "title": "Lightning strikes the Earth about 100 times every second",
+    "body": "Across the whole planet, storms produce a near-constant stream of lightning strikes at any given moment."
+  },
+  {
+    "id": "science-26",
+    "categoryId": "science",
+    "title": "Your body produces around 25 million new cells every second",
+    "body": "Constant cell division replaces damaged or worn-out cells throughout your life."
+  },
+  {
+    "id": "science-27",
+    "categoryId": "science",
+    "title": "Jupiter's Great Red Spot is a storm that has raged for over 150 years",
+    "body": "It's a giant, persistent storm large enough to fit multiple Earths inside it."
+  },
+  {
+    "id": "science-28",
+    "categoryId": "science",
+    "title": "Sound can't travel through the vacuum of space",
+    "body": "Without air or another medium to vibrate, there's nothing to carry sound waves between objects."
+  },
+  {
+    "id": "science-29",
+    "categoryId": "science",
+    "title": "Mercury has almost no atmosphere",
+    "body": "That lets its surface temperature swing from scorching by day to freezing at night, with little to hold in heat."
+  },
+  {
+    "id": "science-30",
+    "categoryId": "science",
+    "title": "The human eye can distinguish around 10 million different colors",
+    "body": "Three types of color receptors in the retina combine to create this huge range of perception."
+  },
+  {
+    "id": "science-31",
+    "categoryId": "science",
+    "title": "Most of Earth's oxygen comes from the ocean, not forests",
+    "body": "Marine phytoplankton are estimated to produce more of the planet's oxygen than all land plants combined."
+  },
+  {
+    "id": "science-32",
+    "categoryId": "science",
+    "title": "Helium makes your voice sound higher",
+    "body": "Sound travels faster through helium than through air, which raises the pitch of your voice temporarily."
+  },
+  {
+    "id": "science-33",
+    "categoryId": "science",
+    "title": "The Eiffel Tower grows taller in the summer",
+    "body": "Heat makes its iron structure expand, adding more than 15 centimeters to its height."
+  },
+  {
+    "id": "science-34",
+    "categoryId": "science",
+    "title": "Static electricity can reach thousands of volts",
+    "body": "A shock from static electricity carries very little current, which is why it's startling but harmless."
+  },
+  {
+    "id": "science-35",
+    "categoryId": "science",
+    "title": "Diamonds and pencil graphite are both pure carbon",
+    "body": "The only difference is how their carbon atoms are arranged and bonded."
+  },
+  {
+    "id": "science-36",
+    "categoryId": "science",
+    "title": "Light takes about 100,000 years to cross the Milky Way",
+    "body": "Our galaxy is roughly 100,000 light-years across from end to end."
+  },
+  {
+    "id": "science-37",
+    "categoryId": "science",
+    "title": "The average human heart beats about 100,000 times a day",
+    "body": "Over an average lifetime, that adds up to more than two and a half billion heartbeats."
+  },
+  {
+    "id": "science-38",
+    "categoryId": "science",
+    "title": "Saturn's rings are made mostly of ice",
+    "body": "They consist largely of ice particles, with a smaller amount of rocky debris and dust mixed in."
+  },
+  {
+    "id": "science-39",
+    "categoryId": "science",
+    "title": "Saltwater freezes at a lower temperature than fresh water",
+    "body": "That's one reason parts of the ocean stay liquid even in extremely cold conditions."
+  },
+  {
+    "id": "science-40",
+    "categoryId": "science",
+    "title": "Fingernails grow nearly four times faster than toenails",
+    "body": "Growth rate is linked to blood flow and cell turnover, which are higher in the fingers."
+  },
+  {
+    "id": "science-41",
+    "categoryId": "science",
+    "title": "The Antarctic ice sheet holds about 70% of the world's fresh water",
+    "body": "If it all melted, global sea levels would rise by tens of meters."
+  },
+  {
+    "id": "science-42",
+    "categoryId": "science",
+    "title": "A rainbow is actually a full circle",
+    "body": "From the ground we usually only see the arc above the horizon, but from a plane a full circular rainbow can sometimes be seen."
+  },
+  {
+    "id": "nature-23",
+    "categoryId": "nature",
+    "title": "Bees can recognize individual human faces",
+    "body": "Despite having a brain the size of a sesame seed, bees can learn and remember facial patterns."
+  },
+  {
+    "id": "nature-24",
+    "categoryId": "nature",
+    "title": "A group of owls is called a parliament",
+    "body": "The term likely comes from old folklore that cast owls as wise, judge-like figures."
+  },
+  {
+    "id": "nature-25",
+    "categoryId": "nature",
+    "title": "Koalas sleep up to 20 hours a day",
+    "body": "Their eucalyptus-leaf diet is low in nutrients and energy, so they conserve energy by sleeping most of the time."
+  },
+  {
+    "id": "nature-26",
+    "categoryId": "nature",
+    "title": "The mantis shrimp can see far more colors than humans",
+    "body": "It has up to 16 types of color receptors, compared to just three in the human eye."
+  },
+  {
+    "id": "nature-27",
+    "categoryId": "nature",
+    "title": "Male seahorses carry and give birth to their young",
+    "body": "Females deposit eggs into a pouch on the male's body, where he fertilizes and carries them until birth."
+  },
+  {
+    "id": "nature-28",
+    "categoryId": "nature",
+    "title": "A hummingbird's heart can beat over 1,200 times per minute",
+    "body": "Its rapid wingbeats and hovering flight demand an extremely fast metabolism and heart rate."
+  },
+  {
+    "id": "nature-29",
+    "categoryId": "nature",
+    "title": "Cats can't taste sweetness",
+    "body": "They lack the specific taste receptor gene that lets most mammals detect sugary flavors."
+  },
+  {
+    "id": "nature-30",
+    "categoryId": "nature",
+    "title": "Some jellyfish are biologically immortal",
+    "body": "Certain species can revert to an earlier stage of life instead of aging toward death."
+  },
+  {
+    "id": "nature-31",
+    "categoryId": "nature",
+    "title": "Giraffes need only a few hours of sleep a day",
+    "body": "They typically sleep in short bursts totaling as little as 30 minutes to two hours."
+  },
+  {
+    "id": "nature-32",
+    "categoryId": "nature",
+    "title": "A group of lions is called a pride",
+    "body": "Lions are the only big cats that live and hunt together in such large social groups."
+  },
+  {
+    "id": "nature-33",
+    "categoryId": "nature",
+    "title": "Polar bears have black skin under their white fur",
+    "body": "The dark skin helps absorb and retain heat from the sun beneath their translucent, insulating fur."
+  },
+  {
+    "id": "nature-34",
+    "categoryId": "nature",
+    "title": "Slime molds can solve mazes without a brain",
+    "body": "They grow toward food sources in a way that finds remarkably efficient paths, despite having no nervous system."
+  },
+  {
+    "id": "nature-35",
+    "categoryId": "nature",
+    "title": "Axolotls can regrow entire limbs",
+    "body": "They can also regenerate parts of their spinal cord, heart, and even portions of their brain."
+  },
+  {
+    "id": "nature-36",
+    "categoryId": "nature",
+    "title": "A pistol shrimp's claw snap briefly rivals the sun's surface heat",
+    "body": "The snap creates a collapsing bubble that produces a tiny flash of light and heat for a fraction of a second."
+  },
+  {
+    "id": "nature-37",
+    "categoryId": "nature",
+    "title": "Woodpeckers have shock-absorbing skulls",
+    "body": "Their skull structure cushions their brains from the repeated impact of pecking wood thousands of times a day."
+  },
+  {
+    "id": "nature-38",
+    "categoryId": "nature",
+    "title": "Owls can rotate their heads up to 270 degrees",
+    "body": "Special adaptations in their blood vessels keep blood flowing to the brain even at extreme rotation."
+  },
+  {
+    "id": "nature-39",
+    "categoryId": "nature",
+    "title": "Chameleons change color mainly to communicate",
+    "body": "Mood, temperature regulation, and signaling to other chameleons matter more than camouflage for most color changes."
+  },
+  {
+    "id": "nature-40",
+    "categoryId": "nature",
+    "title": "A group of rhinos is called a crash",
+    "body": "The name likely reflects how the animals move and interact when startled or gathered together."
+  },
+  {
+    "id": "nature-41",
+    "categoryId": "nature",
+    "title": "A shrimp's heart is located in its head",
+    "body": "Unlike most animals, shrimp anatomy places the heart near the head rather than in the chest or abdomen."
+  },
+  {
+    "id": "nature-42",
+    "categoryId": "nature",
+    "title": "Some snails can sleep for up to three years",
+    "body": "During extreme heat or cold, certain snail species enter a long dormant state to survive."
+  },
+  {
+    "id": "history-23",
+    "categoryId": "history",
+    "title": "The Eiffel Tower was meant to be temporary",
+    "body": "It was built for the 1889 World's Fair and was originally scheduled to be dismantled after 20 years."
+  },
+  {
+    "id": "history-24",
+    "categoryId": "history",
+    "title": "Spartan boys began military training around age seven",
+    "body": "Ancient Sparta built its entire society around producing highly disciplined soldiers from a young age."
+  },
+  {
+    "id": "history-25",
+    "categoryId": "history",
+    "title": "The Great Wall of China was built over many centuries",
+    "body": "Different dynasties added, connected, and rebuilt sections rather than constructing it as one continuous project."
+  },
+  {
+    "id": "history-26",
+    "categoryId": "history",
+    "title": "Women in ancient Egypt had unusually strong legal rights",
+    "body": "They could own property, run businesses, and initiate divorce, more freedoms than in many other ancient societies."
+  },
+  {
+    "id": "history-27",
+    "categoryId": "history",
+    "title": "The first recorded Olympic Games were held in 776 BCE",
+    "body": "They took place in Olympia, Greece, and featured a single event: a short footrace."
+  },
+  {
+    "id": "history-28",
+    "categoryId": "history",
+    "title": "Julius Caesar was once kidnapped by pirates",
+    "body": "After being ransomed and released, he raised a fleet and returned to capture and execute his former captors."
+  },
+  {
+    "id": "history-29",
+    "categoryId": "history",
+    "title": "The Titanic's wreck wasn't found until 1985",
+    "body": "It sank in 1912, but the wreckage remained undiscovered on the ocean floor for over 70 years."
+  },
+  {
+    "id": "history-30",
+    "categoryId": "history",
+    "title": "Gunpowder was invented while searching for immortality",
+    "body": "Chinese alchemists stumbled upon the explosive mixture while experimenting with ingredients meant to extend life."
+  },
+  {
+    "id": "history-31",
+    "categoryId": "history",
+    "title": "The ancient Maya developed one of the first full writing systems in the Americas",
+    "body": "Their script combined logograms and syllabic symbols to record history, astronomy, and religion."
+  },
+  {
+    "id": "history-32",
+    "categoryId": "history",
+    "title": "The pyramids of Giza were built by paid laborers",
+    "body": "Archaeological evidence, including worker villages and tombs found nearby, points to skilled workers rather than slaves."
+  },
+  {
+    "id": "history-33",
+    "categoryId": "history",
+    "title": "Genghis Khan built the largest contiguous land empire in history",
+    "body": "At its height, the Mongol Empire stretched across much of Asia and into Europe."
+  },
+  {
+    "id": "history-34",
+    "categoryId": "history",
+    "title": "The first vending machines dispensed holy water",
+    "body": "Ancient Greek engineer Hero of Alexandria described a coin-operated device for temples around the 1st century."
+  },
+  {
+    "id": "history-35",
+    "categoryId": "history",
+    "title": "Isaac Newton developed key ideas during a plague outbreak",
+    "body": "While Cambridge University was closed in 1665–1666, he made major breakthroughs in calculus and optics at home."
+  },
+  {
+    "id": "history-36",
+    "categoryId": "history",
+    "title": "The Colosseum could hold tens of thousands of spectators",
+    "body": "Estimates suggest it seated between 50,000 and 80,000 people for gladiatorial games and public spectacles."
+  },
+  {
+    "id": "history-37",
+    "categoryId": "history",
+    "title": "Marco Polo's travels helped connect Europe and Asia",
+    "body": "His journeys along the Silk Road introduced many Asian goods and ideas to medieval Europe."
+  },
+  {
+    "id": "history-38",
+    "categoryId": "history",
+    "title": "We use 60 minutes in an hour because of ancient Babylon",
+    "body": "Babylonian mathematicians used a base-60 number system that still shapes how we measure time today."
+  },
+  {
+    "id": "history-39",
+    "categoryId": "history",
+    "title": "The first email was sent in 1971",
+    "body": "Computer engineer Ray Tomlinson sent the first networked email and introduced the @ symbol for addresses."
+  },
+  {
+    "id": "history-40",
+    "categoryId": "history",
+    "title": "The Rosetta Stone unlocked Egyptian hieroglyphs",
+    "body": "Discovered in 1799, its parallel text in three scripts let scholars finally decode ancient Egyptian writing."
+  },
+  {
+    "id": "history-41",
+    "categoryId": "history",
+    "title": "Queen Elizabeth I ruled England for 44 years without marrying",
+    "body": "Her long, unmarried reign from 1558 to 1603 became known as the Elizabethan era."
+  },
+  {
+    "id": "history-42",
+    "categoryId": "history",
+    "title": "Pompeii was remarkably preserved by volcanic ash",
+    "body": "The eruption of Mount Vesuvius in 79 CE buried the city, freezing daily life in place for archaeologists to uncover centuries later."
+  },
+  {
+    "id": "geography-23",
+    "categoryId": "geography",
+    "title": "Russia is almost twice the size of the next largest country",
+    "body": "At over 17 million square kilometers, it's nearly double the land area of Canada, the second largest."
+  },
+  {
+    "id": "geography-24",
+    "categoryId": "geography",
+    "title": "The Pacific Ocean is larger than all land on Earth combined",
+    "body": "It covers more surface area than every continent put together."
+  },
+  {
+    "id": "geography-25",
+    "categoryId": "geography",
+    "title": "Monaco is the world's second smallest country",
+    "body": "Only Vatican City is smaller in total land area."
+  },
+  {
+    "id": "geography-26",
+    "categoryId": "geography",
+    "title": "Lake Baikal is the deepest and oldest freshwater lake on Earth",
+    "body": "Located in Russia, it holds roughly 20% of the world's unfrozen fresh water."
+  },
+  {
+    "id": "geography-27",
+    "categoryId": "geography",
+    "title": "The equator passes through 13 countries",
+    "body": "It crosses parts of South America, Africa, and Asia, including Brazil, Kenya, and Indonesia."
+  },
+  {
+    "id": "geography-28",
+    "categoryId": "geography",
+    "title": "Death Valley holds the record for the hottest air temperature ever recorded",
+    "body": "A reading of 56.7°C was recorded there in 1913 and remains the highest verified temperature on Earth."
+  },
+  {
+    "id": "geography-29",
+    "categoryId": "geography",
+    "title": "The Ring of Fire holds about 75% of the world's active volcanoes",
+    "body": "This horseshoe-shaped zone circles much of the Pacific Ocean basin."
+  },
+  {
+    "id": "geography-30",
+    "categoryId": "geography",
+    "title": "Mongolia is one of the least densely populated countries on Earth",
+    "body": "Its vast steppe landscape is home to a relatively small population spread across a huge area."
+  },
+  {
+    "id": "geography-31",
+    "categoryId": "geography",
+    "title": "New Zealand was one of the last major landmasses settled by humans",
+    "body": "Polynesian voyagers are believed to have arrived there around 1250 to 1300 CE."
+  },
+  {
+    "id": "geography-32",
+    "categoryId": "geography",
+    "title": "The Andes is the longest continental mountain range in the world",
+    "body": "It stretches roughly 7,000 kilometers along the western edge of South America."
+  },
+  {
+    "id": "geography-33",
+    "categoryId": "geography",
+    "title": "Singapore is one of the only city-states in the world today",
+    "body": "It functions simultaneously as a city, an island, and an entire sovereign country."
+  },
+  {
+    "id": "geography-34",
+    "categoryId": "geography",
+    "title": "Lake Superior is the largest freshwater lake by surface area",
+    "body": "It's the biggest of North America's Great Lakes and one of the largest freshwater lakes on Earth."
+  },
+  {
+    "id": "geography-35",
+    "categoryId": "geography",
+    "title": "Norway's coastline has more than 1,000 fjords",
+    "body": "These dramatic, steep-sided inlets were carved by glaciers over thousands of years."
+  },
+  {
+    "id": "geography-36",
+    "categoryId": "geography",
+    "title": "The Atacama Desert is one of the driest places on Earth",
+    "body": "Some weather stations there have gone decades without recording a drop of rain."
+  },
+  {
+    "id": "geography-37",
+    "categoryId": "geography",
+    "title": "Japan is made up of more than 6,800 islands",
+    "body": "Only a few hundred of them are inhabited, with most of the population concentrated on the four main islands."
+  },
+  {
+    "id": "geography-38",
+    "categoryId": "geography",
+    "title": "Timbuktu was once a major center of learning and trade",
+    "body": "In medieval West Africa, the city was renowned for its libraries, scholars, and gold and salt trade routes."
+  },
+  {
+    "id": "geography-39",
+    "categoryId": "geography",
+    "title": "About 90% of the world's population lives in the Northern Hemisphere",
+    "body": "Most of Earth's landmass and major population centers are concentrated north of the equator."
+  },
+  {
+    "id": "geography-40",
+    "categoryId": "geography",
+    "title": "Kilimanjaro is the tallest freestanding mountain in the world",
+    "body": "Unlike most tall peaks, it doesn't belong to a larger mountain range."
+  },
+  {
+    "id": "geography-41",
+    "categoryId": "geography",
+    "title": "The Strait of Gibraltar separates Europe and Africa by just 13 kilometers",
+    "body": "At its narrowest point, the two continents are close enough to see each other across the water."
+  },
+  {
+    "id": "geography-42",
+    "categoryId": "geography",
+    "title": "Lesotho is completely surrounded by a single other country",
+    "body": "It's one of only a few nations in the world entirely enclosed within the borders of another, in this case South Africa."
+  },
+  {
+    "id": "art-23",
+    "categoryId": "art",
+    "title": "Cataracts changed the way Monet painted in his later years",
+    "body": "As his eyesight worsened, the colors and forms in his late water lily paintings grew hazier and more abstract."
+  },
+  {
+    "id": "art-24",
+    "categoryId": "art",
+    "title": "The word 'sketch' comes from a Greek word meaning 'improvised'",
+    "body": "It reflects the tradition of using sketches for quick, unplanned studies rather than finished works."
+  },
+  {
+    "id": "art-25",
+    "categoryId": "art",
+    "title": "Van Gogh painted over 2,100 artworks in about a decade",
+    "body": "Despite his short career, he produced an extraordinary volume of paintings and drawings before his death."
+  },
+  {
+    "id": "art-26",
+    "categoryId": "art",
+    "title": "'The Creation of Adam' is one of the most reproduced religious images in history",
+    "body": "It's part of Michelangelo's Sistine Chapel ceiling and has become one of the most recognizable artworks ever made."
+  },
+  {
+    "id": "art-27",
+    "categoryId": "art",
+    "title": "The Lascaux cave paintings are over 17,000 years old",
+    "body": "Discovered in France, they depict animals and hunting scenes from deep prehistory."
+  },
+  {
+    "id": "art-28",
+    "categoryId": "art",
+    "title": "Andy Warhol sealed hundreds of personal time capsules",
+    "body": "He filled cardboard boxes with everyday objects and correspondence, dating and archiving them throughout his life."
+  },
+  {
+    "id": "art-29",
+    "categoryId": "art",
+    "title": "The Mona Lisa is painted on wood, not canvas",
+    "body": "Leonardo da Vinci used a poplar wood panel as his surface for the famous portrait."
+  },
+  {
+    "id": "art-30",
+    "categoryId": "art",
+    "title": "Gustav Klimt's 'The Kiss' uses real gold leaf",
+    "body": "It's a centerpiece of his 'Golden Phase,' when he incorporated gold and ornate patterning into his paintings."
+  },
+  {
+    "id": "art-31",
+    "categoryId": "art",
+    "title": "Rodin's 'The Thinker' was originally part of a larger sculpture",
+    "body": "It was designed as a figure for his monumental work 'The Gates of Hell' before becoming famous on its own."
+  },
+  {
+    "id": "art-32",
+    "categoryId": "art",
+    "title": "Mondrian's grid paintings influenced fashion and design",
+    "body": "His bold geometric abstractions shaped everything from clothing to architecture well beyond the art world."
+  },
+  {
+    "id": "art-33",
+    "categoryId": "art",
+    "title": "Ansel Adams became famous for black-and-white photos of the American West",
+    "body": "His images of Yosemite National Park remain some of the most iconic landscape photography ever produced."
+  },
+  {
+    "id": "art-34",
+    "categoryId": "art",
+    "title": "The Bayeux Tapestry tells its story through embroidery, not paint",
+    "body": "Nearly 70 meters long, it depicts the Norman conquest of England in stitched scenes."
+  },
+  {
+    "id": "art-35",
+    "categoryId": "art",
+    "title": "'The Great Wave off Kanagawa' is part of a larger print series",
+    "body": "Hokusai created it as one of his 'Thirty-Six Views of Mount Fuji.'"
+  },
+  {
+    "id": "art-36",
+    "categoryId": "art",
+    "title": "Matisse kept making art after illness left him unable to paint",
+    "body": "In his final years he created large paper cutouts using scissors, a technique that became a celebrated late style."
+  },
+  {
+    "id": "art-37",
+    "categoryId": "art",
+    "title": "The word 'graffiti' comes from an Italian word meaning 'to scratch'",
+    "body": "It originally referred to markings scratched into ancient walls and surfaces."
+  },
+  {
+    "id": "art-38",
+    "categoryId": "art",
+    "title": "Diego Rivera's murals depicted Mexican history on public walls",
+    "body": "His large-scale works often explored social and political themes for a wide public audience."
+  },
+  {
+    "id": "art-39",
+    "categoryId": "art",
+    "title": "The Uffizi Gallery houses one of the world's great Renaissance art collections",
+    "body": "Located in Florence, it holds masterpieces from artists like Botticelli, Raphael, and Titian."
+  },
+  {
+    "id": "art-40",
+    "categoryId": "art",
+    "title": "Yayoi Kusama is known for immersive polka-dot installations",
+    "body": "Her 'Infinity Mirror Rooms' use light and reflection to create seemingly endless repeating patterns."
+  },
+  {
+    "id": "art-41",
+    "categoryId": "art",
+    "title": "The Elgin Marbles remain a subject of international dispute",
+    "body": "These ancient Greek sculptures from the Parthenon are held in the British Museum, and their ownership is still contested by Greece."
+  },
+  {
+    "id": "art-42",
+    "categoryId": "art",
+    "title": "Kandinsky is considered a pioneer of abstract art",
+    "body": "In the early 20th century, he moved away from representational painting toward pure color and form."
+  },
+  {
+    "id": "science-43",
+    "categoryId": "science",
+    "title": "Bananas curve because they grow toward sunlight",
+    "body": "The fruit bends upward away from the heavy flower cluster as it chases light, giving it its curved shape."
+  },
+  {
+    "id": "science-44",
+    "categoryId": "science",
+    "title": "A lightning bolt is only about as wide as a coin",
+    "body": "It looks much wider in photos, but the actual electrical channel is just a few centimeters across."
+  },
+  {
+    "id": "science-45",
+    "categoryId": "science",
+    "title": "Table salt combines two dangerous elements into something safe to eat",
+    "body": "Sodium is a reactive metal and chlorine is a toxic gas, but bonded together they form stable, edible sodium chloride."
+  },
+  {
+    "id": "science-46",
+    "categoryId": "science",
+    "title": "Your skeleton fully renews itself roughly every ten years",
+    "body": "Bone tissue is constantly broken down and rebuilt through a process called remodeling."
+  },
+  {
+    "id": "science-47",
+    "categoryId": "science",
+    "title": "Water can exist as solid, liquid, and gas all at once",
+    "body": "This happens at its 'triple point,' a precise combination of temperature and pressure."
+  },
+  {
+    "id": "science-48",
+    "categoryId": "science",
+    "title": "The Sun holds about 99.86% of all mass in the solar system",
+    "body": "Every planet, moon, and asteroid combined makes up only a tiny fraction of the total."
+  },
+  {
+    "id": "science-49",
+    "categoryId": "science",
+    "title": "There are more stars in the universe than grains of sand on Earth's beaches",
+    "body": "Astronomers estimate the observable universe contains hundreds of billions of galaxies, each with billions of stars."
+  },
+  {
+    "id": "science-50",
+    "categoryId": "science",
+    "title": "Sodium and potassium react explosively with water",
+    "body": "Both metals are so reactive that even small pieces can ignite or explode on contact with water."
+  },
+  {
+    "id": "science-51",
+    "categoryId": "science",
+    "title": "You shed about 600,000 skin cells every hour",
+    "body": "Skin constantly renews itself, and much of household dust is made up of these shed cells."
+  },
+  {
+    "id": "science-52",
+    "categoryId": "science",
+    "title": "A sneeze can leave your mouth at up to 100 miles per hour",
+    "body": "The sudden reflex expels air, droplets, and particles at surprisingly high speed."
+  },
+  {
+    "id": "science-53",
+    "categoryId": "science",
+    "title": "A rainbow only appears with the sun behind you and rain ahead",
+    "body": "Light must enter raindrops, reflect off their inner surface, and exit at the right angle to reach your eyes."
+  },
+  {
+    "id": "science-54",
+    "categoryId": "science",
+    "title": "The periodic table currently lists 118 confirmed elements",
+    "body": "New elements are occasionally synthesized in laboratories and added once verified."
+  },
+  {
+    "id": "science-55",
+    "categoryId": "science",
+    "title": "Carbon dioxide is heavier than air",
+    "body": "It can settle and pool in low-lying spaces like caves and basements."
+  },
+  {
+    "id": "science-56",
+    "categoryId": "science",
+    "title": "The moon drifts away from Earth by about 3.8 centimeters a year",
+    "body": "Scientists measure this using laser reflectors left on the lunar surface by past missions."
+  },
+  {
+    "id": "science-57",
+    "categoryId": "science",
+    "title": "Photosynthesis turns sunlight, water, and carbon dioxide into food and oxygen",
+    "body": "Plants use this process to build the sugars they need to grow while releasing oxygen as a byproduct."
+  },
+  {
+    "id": "science-58",
+    "categoryId": "science",
+    "title": "Pressure can shift water's freezing point away from 0°C",
+    "body": "Under high pressure, ice can melt at temperatures where it would normally stay frozen."
+  },
+  {
+    "id": "science-59",
+    "categoryId": "science",
+    "title": "A Prince Rupert's drop can survive a hammer but shatters if its tail snaps",
+    "body": "This glass teardrop's rapid cooling creates internal stress that makes its head tough and its tail extremely fragile."
+  },
+  {
+    "id": "science-60",
+    "categoryId": "science",
+    "title": "Humans appear to be the only species that cries emotional tears",
+    "body": "While many animals produce tears for eye protection, tears linked to emotion seem to be uniquely human."
+  },
+  {
+    "id": "science-61",
+    "categoryId": "science",
+    "title": "The Hubble Space Telescope has been capturing images since 1990",
+    "body": "It orbits above Earth's atmosphere, giving it a clearer view of distant galaxies than ground-based telescopes."
+  },
+  {
+    "id": "science-62",
+    "categoryId": "science",
+    "title": "A teaspoon of soil can contain billions of microorganisms",
+    "body": "Healthy soil is teeming with bacteria, fungi, and other microbes essential to plant growth."
+  },
+  {
+    "id": "science-63",
+    "categoryId": "science",
+    "title": "Wet wood can conduct electricity",
+    "body": "Dry wood is a good insulator, but moisture inside it creates a path for electrical current to pass through."
+  },
+  {
+    "id": "science-64",
+    "categoryId": "science",
+    "title": "Gravity on the moon is about one-sixth of Earth's",
+    "body": "That's why astronauts could bound across the lunar surface in such large, slow-motion leaps."
+  },
+  {
+    "id": "science-65",
+    "categoryId": "science",
+    "title": "The International Space Station circles Earth roughly every 90 minutes",
+    "body": "Astronauts aboard see about 16 sunrises and sunsets in a single day."
+  },
+  {
+    "id": "science-66",
+    "categoryId": "science",
+    "title": "A single lightning bolt can stretch several kilometers long",
+    "body": "Lightning often travels far sideways through clouds before ever reaching the ground."
+  },
+  {
+    "id": "science-67",
+    "categoryId": "science",
+    "title": "Table sugar is made of two simpler sugars joined together",
+    "body": "Sucrose forms when a glucose molecule and a fructose molecule bond."
+  },
+  {
+    "id": "science-68",
+    "categoryId": "science",
+    "title": "The Richter scale is logarithmic",
+    "body": "Each whole number increase represents roughly a tenfold jump in an earthquake's measured amplitude."
+  },
+  {
+    "id": "science-69",
+    "categoryId": "science",
+    "title": "Almost all of an atom's mass sits in its tiny nucleus",
+    "body": "The nucleus takes up only a minuscule fraction of an atom's total volume, yet holds nearly all its mass."
+  },
+  {
+    "id": "science-70",
+    "categoryId": "science",
+    "title": "A 'jiffy' is a real unit of time in physics",
+    "body": "It's informally used to describe about 1/100th of a second, though exact definitions vary by field."
+  },
+  {
+    "id": "science-71",
+    "categoryId": "science",
+    "title": "A single cloud can hold millions of liters of water",
+    "body": "The water exists as countless tiny droplets suspended in the air, light enough to stay aloft."
+  },
+  {
+    "id": "science-72",
+    "categoryId": "science",
+    "title": "Gold's chemical symbol, Au, comes from Latin",
+    "body": "It's short for 'aurum,' the Latin word for gold."
+  },
+  {
+    "id": "science-73",
+    "categoryId": "science",
+    "title": "Iron is the most common element in Earth as a whole",
+    "body": "Most of it is concentrated in the planet's dense inner and outer core."
+  },
+  {
+    "id": "science-74",
+    "categoryId": "science",
+    "title": "Zero as a number was invented independently more than once",
+    "body": "Ancient civilizations in India and Mesoamerica each developed the concept of zero on their own."
+  },
+  {
+    "id": "science-75",
+    "categoryId": "science",
+    "title": "Plasma is considered the fourth common state of matter",
+    "body": "Alongside solid, liquid, and gas, physicists recognize plasma as a distinct state found in stars and lightning."
+  },
+  {
+    "id": "science-76",
+    "categoryId": "science",
+    "title": "Sound intensity is measured in decibels on a logarithmic scale",
+    "body": "Each increase of 10 decibels represents roughly a tenfold rise in sound intensity."
+  },
+  {
+    "id": "science-77",
+    "categoryId": "science",
+    "title": "Newton's third law says every action has an equal and opposite reaction",
+    "body": "It's one of the foundational principles behind how forces interact between objects."
+  },
+  {
+    "id": "science-78",
+    "categoryId": "science",
+    "title": "The universe is estimated to be about 13.8 billion years old",
+    "body": "Scientists calculate this from measurements of the universe's ongoing expansion."
+  },
+  {
+    "id": "science-79",
+    "categoryId": "science",
+    "title": "Quartz crystals help clocks keep accurate time",
+    "body": "An electric current makes quartz vibrate at a precise, stable frequency that most clocks and watches rely on."
+  },
+  {
+    "id": "science-80",
+    "categoryId": "science",
+    "title": "Water boils at a lower temperature at higher altitudes",
+    "body": "Lower air pressure at altitude makes it easier for water molecules to escape as vapor."
+  },
+  {
+    "id": "science-81",
+    "categoryId": "science",
+    "title": "DNA was first identified in the 1860s",
+    "body": "Swiss chemist Friedrich Miescher discovered it decades before its double-helix structure was understood in the 1950s."
+  },
+  {
+    "id": "science-82",
+    "categoryId": "science",
+    "title": "Splitting the atom laid the groundwork for nuclear energy",
+    "body": "Early 20th-century experiments in nuclear physics opened the door to both nuclear power and nuclear weapons."
+  },
+  {
+    "id": "science-83",
+    "categoryId": "science",
+    "title": "Copper was one of the first metals humans used",
+    "body": "It's one of the few metals that occurs naturally in a usable metallic form, making it easy to work with early tools."
+  },
+  {
+    "id": "science-84",
+    "categoryId": "science",
+    "title": "Earth's magnetic field helps shield us from solar radiation",
+    "body": "It deflects much of the charged particle stream from the sun that would otherwise strip away our atmosphere."
+  },
+  {
+    "id": "science-85",
+    "categoryId": "science",
+    "title": "The human body is roughly 60% water by weight",
+    "body": "Water makes up a large share of blood, muscle, and nearly every tissue in the body."
+  },
+  {
+    "id": "science-86",
+    "categoryId": "science",
+    "title": "Some plastics take hundreds of years to break down",
+    "body": "Microorganisms struggle to digest the synthetic polymer chains that make up most plastic materials."
+  },
+  {
+    "id": "science-87",
+    "categoryId": "science",
+    "title": "The Fibonacci sequence shows up throughout nature",
+    "body": "It appears in patterns like sunflower seed spirals, pinecones, and the arrangement of leaves on some plants."
+  },
+  {
+    "id": "science-88",
+    "categoryId": "science",
+    "title": "A full moon is about nine times brighter than a half moon",
+    "body": "Sunlight reflects much more directly off the moon's surface when it's fully illuminated."
+  },
+  {
+    "id": "science-89",
+    "categoryId": "science",
+    "title": "The internet and the World Wide Web aren't the same thing",
+    "body": "The internet is the global network of connected computers; the web is a service, built on top of it, for browsing linked pages."
+  },
+  {
+    "id": "science-90",
+    "categoryId": "science",
+    "title": "Caffeine is the world's most widely consumed psychoactive substance",
+    "body": "It's found naturally in coffee, tea, and cacao, and is legal and unregulated in most of the world."
+  },
+  {
+    "id": "science-91",
+    "categoryId": "science",
+    "title": "The average adult has about 5 liters of blood",
+    "body": "This blood continuously circulates through the heart, lungs, and the rest of the body."
+  },
+  {
+    "id": "science-92",
+    "categoryId": "science",
+    "title": "Venom and poison work differently",
+    "body": "Venom must be injected into the body to cause harm, while poison can work through absorption, inhalation, or ingestion."
+  },
+  {
+    "id": "nature-43",
+    "categoryId": "nature",
+    "title": "Octopuses have nine brains",
+    "body": "They have one central brain plus a smaller brain controlling each of their eight arms."
+  },
+  {
+    "id": "nature-44",
+    "categoryId": "nature",
+    "title": "Wood frogs can freeze almost solid and thaw back to life",
+    "body": "During winter, much of their body water freezes, then they revive fully once temperatures rise in spring."
+  },
+  {
+    "id": "nature-45",
+    "categoryId": "nature",
+    "title": "Many deep-sea creatures make their own light",
+    "body": "Bioluminescence helps them attract prey, find mates, or startle predators in total darkness."
+  },
+  {
+    "id": "nature-46",
+    "categoryId": "nature",
+    "title": "A group of pandas is called an embarrassment",
+    "body": "It's one of many unusual collective nouns used for specific animal groups."
+  },
+  {
+    "id": "nature-47",
+    "categoryId": "nature",
+    "title": "A dog's sense of smell is tens of thousands of times more sensitive than a human's",
+    "body": "Dogs have far more scent receptors and a much larger area of the brain devoted to processing smell."
+  },
+  {
+    "id": "nature-48",
+    "categoryId": "nature",
+    "title": "Some ants can carry many times their own body weight",
+    "body": "Certain species can lift objects up to 50 times heavier than themselves."
+  },
+  {
+    "id": "nature-49",
+    "categoryId": "nature",
+    "title": "A group of jellyfish is called a smack",
+    "body": "Despite having no brain, jellyfish are one of the oldest known animal groups on Earth."
+  },
+  {
+    "id": "nature-50",
+    "categoryId": "nature",
+    "title": "The peregrine falcon is the fastest animal on Earth",
+    "body": "During a hunting dive, it can reach speeds over 300 kilometers per hour."
+  },
+  {
+    "id": "nature-51",
+    "categoryId": "nature",
+    "title": "Elephants communicate using rumbles too low for humans to hear",
+    "body": "These infrasound calls can travel long distances and help herds stay in contact."
+  },
+  {
+    "id": "nature-52",
+    "categoryId": "nature",
+    "title": "Cats have a third eyelid",
+    "body": "Called a nictitating membrane, it helps protect and moisten the eye."
+  },
+  {
+    "id": "nature-53",
+    "categoryId": "nature",
+    "title": "A group of porcupines is called a prickle",
+    "body": "It's a fitting name for an animal covered in sharp, defensive quills."
+  },
+  {
+    "id": "nature-54",
+    "categoryId": "nature",
+    "title": "Jellyfish are made of more than 95% water",
+    "body": "Their simple, water-rich bodies lack bones, blood, and a brain."
+  },
+  {
+    "id": "nature-55",
+    "categoryId": "nature",
+    "title": "Some turtle species can live well over 100 years",
+    "body": "Their slow metabolism and sturdy shells contribute to remarkably long lifespans."
+  },
+  {
+    "id": "nature-56",
+    "categoryId": "nature",
+    "title": "A group of frogs is called an army",
+    "body": "Large gatherings of frogs, especially during breeding season, inspired this collective noun."
+  },
+  {
+    "id": "nature-57",
+    "categoryId": "nature",
+    "title": "Male emperor penguins incubate eggs on their feet through the Antarctic winter",
+    "body": "They balance the egg on their feet and cover it with a warm skin fold for about two months without eating."
+  },
+  {
+    "id": "nature-58",
+    "categoryId": "nature",
+    "title": "The platypus is one of the only egg-laying mammals",
+    "body": "Along with a few echidna species, it belongs to a rare group of mammals called monotremes."
+  },
+  {
+    "id": "nature-59",
+    "categoryId": "nature",
+    "title": "A group of butterflies is called a kaleidoscope",
+    "body": "It's one of the more poetic collective nouns used in the animal kingdom."
+  },
+  {
+    "id": "nature-60",
+    "categoryId": "nature",
+    "title": "Some ants farm fungus as their main food source",
+    "body": "Leafcutter ants cultivate fungus gardens by feeding them chewed leaves."
+  },
+  {
+    "id": "nature-61",
+    "categoryId": "nature",
+    "title": "Chimpanzees use tools to fish termites out of mounds",
+    "body": "They strip leaves off sticks to create simple tools for extracting food, a sign of advanced problem-solving."
+  },
+  {
+    "id": "nature-62",
+    "categoryId": "nature",
+    "title": "The corpse flower can smell like rotting flesh",
+    "body": "The odor attracts flies and beetles that help pollinate the plant, one of the largest flowering plants in the world."
+  },
+  {
+    "id": "nature-63",
+    "categoryId": "nature",
+    "title": "A group of hedgehogs is called an array",
+    "body": "It's a distinct term from the similarly spiky porcupine's collective noun, 'prickle.'"
+  },
+  {
+    "id": "nature-64",
+    "categoryId": "nature",
+    "title": "Ostriches can outrun horses",
+    "body": "They can reach speeds of up to about 70 kilometers per hour, making them the fastest running bird."
+  },
+  {
+    "id": "nature-65",
+    "categoryId": "nature",
+    "title": "Octopuses can change both color and texture to blend in",
+    "body": "Specialized skin cells let them mimic the color, pattern, and even bumpiness of their surroundings almost instantly."
+  },
+  {
+    "id": "nature-66",
+    "categoryId": "nature",
+    "title": "A group of foxes is called a skulk",
+    "body": "It reflects the sly, stealthy reputation foxes have long had in folklore."
+  },
+  {
+    "id": "nature-67",
+    "categoryId": "nature",
+    "title": "The Arctic tern migrates from pole to pole every year",
+    "body": "Its round-trip journey covers roughly 70,000 kilometers, more than any other migrating animal."
+  },
+  {
+    "id": "nature-68",
+    "categoryId": "nature",
+    "title": "Beaver dams can be seen from satellite images",
+    "body": "Some of their engineering projects are large enough to reshape entire landscapes over time."
+  },
+  {
+    "id": "nature-69",
+    "categoryId": "nature",
+    "title": "A group of zebras is called a dazzle",
+    "body": "Their bold stripe patterns may help confuse predators when the herd moves together."
+  },
+  {
+    "id": "nature-70",
+    "categoryId": "nature",
+    "title": "Some ants can survive underwater by trapping air bubbles",
+    "body": "The trapped air acts like a temporary oxygen supply, letting them endure brief flooding."
+  },
+  {
+    "id": "nature-71",
+    "categoryId": "nature",
+    "title": "A group of parrots is called a pandemonium",
+    "body": "It's a fitting name given how loud and chaotic a flock of parrots can sound."
+  },
+  {
+    "id": "nature-72",
+    "categoryId": "nature",
+    "title": "Cuttlefish can change skin color and pattern in under a second",
+    "body": "Specialized pigment cells let them communicate, camouflage, or startle predators almost instantly."
+  },
+  {
+    "id": "nature-73",
+    "categoryId": "nature",
+    "title": "The bumblebee bat is one of the smallest mammals on Earth",
+    "body": "It weighs about as much as a coin and is roughly the size of a large insect."
+  },
+  {
+    "id": "nature-74",
+    "categoryId": "nature",
+    "title": "A group of giraffes is called a tower",
+    "body": "Given how tall giraffes stand, the name fits perfectly."
+  },
+  {
+    "id": "nature-75",
+    "categoryId": "nature",
+    "title": "Some shrimp clean parasites off fish in a mutual partnership",
+    "body": "This relationship, called cleaning symbiosis, benefits both the shrimp, which gets food, and the fish, which gets cleaned."
+  },
+  {
+    "id": "nature-76",
+    "categoryId": "nature",
+    "title": "A peacock's tail feathers are mainly used to attract mates",
+    "body": "Males display their colorful plumage during courtship to impress potential partners."
+  },
+  {
+    "id": "nature-77",
+    "categoryId": "nature",
+    "title": "A group of camels is called a caravan",
+    "body": "The term echoes their historic role transporting goods and people across deserts."
+  },
+  {
+    "id": "nature-78",
+    "categoryId": "nature",
+    "title": "The mimosa plant folds its leaves when touched",
+    "body": "This rapid movement is thought to be a defense mechanism against insects and other threats."
+  },
+  {
+    "id": "nature-79",
+    "categoryId": "nature",
+    "title": "The naked mole rat has unusually cold-blooded-like traits for a mammal",
+    "body": "Unlike most mammals, it struggles to regulate its own body temperature and often relies on its burrow's environment."
+  },
+  {
+    "id": "nature-80",
+    "categoryId": "nature",
+    "title": "A group of toads is called a knot",
+    "body": "It's one of many quirky collective nouns used to describe amphibian gatherings."
+  },
+  {
+    "id": "nature-81",
+    "categoryId": "nature",
+    "title": "Some ants farm aphids for their sugary secretions",
+    "body": "The ants protect the aphids from predators in exchange for a sweet substance called honeydew."
+  },
+  {
+    "id": "nature-82",
+    "categoryId": "nature",
+    "title": "The Komodo dragon is the largest living lizard species",
+    "body": "It's capable of taking down prey much larger than itself, including deer and water buffalo."
+  },
+  {
+    "id": "nature-83",
+    "categoryId": "nature",
+    "title": "A group of eagles is called a convocation",
+    "body": "The formal-sounding term matches the eagle's reputation as a powerful, dignified bird."
+  },
+  {
+    "id": "nature-84",
+    "categoryId": "nature",
+    "title": "Mudskippers can survive out of water for long periods",
+    "body": "They breathe partly through their skin and moist mouth linings while on land or mudflats."
+  },
+  {
+    "id": "nature-85",
+    "categoryId": "nature",
+    "title": "The mimic octopus can imitate other sea animals",
+    "body": "It changes its shape, color, and movement to resemble creatures like sea snakes or lionfish to avoid predators."
+  },
+  {
+    "id": "nature-86",
+    "categoryId": "nature",
+    "title": "A group of otters on land is called a romp",
+    "body": "It reflects the playful behavior otters are known for outside the water."
+  },
+  {
+    "id": "nature-87",
+    "categoryId": "nature",
+    "title": "Some tree groves are actually a single connected organism",
+    "body": "Aspen groves can share one root system, making the whole grove genetically identical clones of a single tree."
+  },
+  {
+    "id": "nature-88",
+    "categoryId": "nature",
+    "title": "Bats are the only mammals capable of true, sustained flight",
+    "body": "Other mammals like flying squirrels can only glide, not power their own flight."
+  },
+  {
+    "id": "nature-89",
+    "categoryId": "nature",
+    "title": "A group of bats is sometimes called a cauldron when in flight",
+    "body": "The name comes from the swirling, chaotic shape large bat colonies form as they emerge at dusk."
+  },
+  {
+    "id": "nature-90",
+    "categoryId": "nature",
+    "title": "The mantis shrimp's punch is one of the fastest strikes in the animal kingdom",
+    "body": "It can strike so quickly and forcefully that it has been known to crack aquarium glass."
+  },
+  {
+    "id": "nature-91",
+    "categoryId": "nature",
+    "title": "Squirrels sometimes fake burying a nut to fool onlookers",
+    "body": "If they sense another squirrel watching, they may pretend to bury food to protect their real stash."
+  },
+  {
+    "id": "nature-92",
+    "categoryId": "nature",
+    "title": "Some coral colonies can live for thousands of years",
+    "body": "Slow, steady growth lets certain deep-sea coral species rank among the longest-living animals on Earth."
+  },
+  {
+    "id": "history-43",
+    "categoryId": "history",
+    "title": "Roman soldiers were sometimes paid partly in salt",
+    "body": "This practice may be the origin of the word 'salary,' derived from the Latin word for salt."
+  },
+  {
+    "id": "history-44",
+    "categoryId": "history",
+    "title": "The Anglo-Saxon period lasted roughly 600 years in England",
+    "body": "It ended with the Norman conquest of 1066, which reshaped English language, law, and culture."
+  },
+  {
+    "id": "history-45",
+    "categoryId": "history",
+    "title": "The city of Troy was long thought to be a myth before its rediscovery",
+    "body": "Archaeologists identified its likely ruins in what is now Turkey during the 19th century."
+  },
+  {
+    "id": "history-46",
+    "categoryId": "history",
+    "title": "The Magna Carta limited the power of the English king",
+    "body": "Signed in 1215, it became a foundational document influencing constitutional law for centuries."
+  },
+  {
+    "id": "history-47",
+    "categoryId": "history",
+    "title": "Ancient Chinese astronomers recorded Halley's Comet as early as 240 BCE",
+    "body": "Their detailed records are among the oldest known observations of the comet's regular appearances."
+  },
+  {
+    "id": "history-48",
+    "categoryId": "history",
+    "title": "The Silk Road was a network of routes, not a single road",
+    "body": "It connected Asia, the Middle East, and Europe through overlapping trade paths across land and sea."
+  },
+  {
+    "id": "history-49",
+    "categoryId": "history",
+    "title": "Tang Dynasty China used early paper currency-like notes",
+    "body": "These promissory notes, developed centuries before European paper money, eased large trade transactions."
+  },
+  {
+    "id": "history-50",
+    "categoryId": "history",
+    "title": "Cleopatra reportedly spoke multiple languages",
+    "body": "She was said to be the first ruler of her Greek dynasty in Egypt to also learn the Egyptian language."
+  },
+  {
+    "id": "history-51",
+    "categoryId": "history",
+    "title": "The Inca built an extensive road network without wheeled transport",
+    "body": "Their roads crossed the rugged Andes, relying on foot travel and llama caravans instead of carts."
+  },
+  {
+    "id": "history-52",
+    "categoryId": "history",
+    "title": "The Phoenicians developed one of the earliest widely used alphabets",
+    "body": "Their writing system heavily influenced the later Greek and Latin alphabets."
+  },
+  {
+    "id": "history-53",
+    "categoryId": "history",
+    "title": "Ancient Athens practiced an early form of democracy",
+    "body": "Only free adult male citizens could vote, excluding women, enslaved people, and foreigners."
+  },
+  {
+    "id": "history-54",
+    "categoryId": "history",
+    "title": "The Black Death killed roughly a third of Europe's population",
+    "body": "The 14th-century plague pandemic caused catastrophic loss of life across the continent."
+  },
+  {
+    "id": "history-55",
+    "categoryId": "history",
+    "title": "The Domesday Book surveyed land across England in 1086",
+    "body": "Commissioned by William the Conqueror, it recorded property and resources in remarkable detail."
+  },
+  {
+    "id": "history-56",
+    "categoryId": "history",
+    "title": "Ancient Egyptian pharaohs were buried with items for the afterlife",
+    "body": "Tombs often included food, jewelry, and everyday objects believed necessary in the next world."
+  },
+  {
+    "id": "history-57",
+    "categoryId": "history",
+    "title": "The wheelbarrow was first used in ancient China",
+    "body": "It appeared there centuries before similar devices became common in Europe."
+  },
+  {
+    "id": "history-58",
+    "categoryId": "history",
+    "title": "Christopher Columbus never set foot on the mainland United States",
+    "body": "His voyages landed in the Caribbean and parts of Central and South America instead."
+  },
+  {
+    "id": "history-59",
+    "categoryId": "history",
+    "title": "The Aztec capital was built on an island in a lake",
+    "body": "Tenochtitlan was connected to the mainland by a series of causeways and canals."
+  },
+  {
+    "id": "history-60",
+    "categoryId": "history",
+    "title": "Joan of Arc led French troops as a teenager",
+    "body": "She helped secure several key victories during the Hundred Years' War before her capture and execution."
+  },
+  {
+    "id": "history-61",
+    "categoryId": "history",
+    "title": "The ancient city of Petra was carved into sandstone cliffs",
+    "body": "Located in modern-day Jordan, its rock-cut architecture remains remarkably well preserved."
+  },
+  {
+    "id": "history-62",
+    "categoryId": "history",
+    "title": "Coined currency first appeared in ancient Lydia",
+    "body": "Around the 7th century BCE, Lydia became one of the first societies to mint standardized coins."
+  },
+  {
+    "id": "history-63",
+    "categoryId": "history",
+    "title": "The Renaissance began in Italy before spreading across Europe",
+    "body": "It started in Italian city-states before its ideas and art reached the rest of the continent over the following centuries."
+  },
+  {
+    "id": "history-64",
+    "categoryId": "history",
+    "title": "The Sumerians developed one of the earliest known writing systems",
+    "body": "Cuneiform, pressed into clay tablets, was used for record-keeping in ancient Mesopotamia."
+  },
+  {
+    "id": "history-65",
+    "categoryId": "history",
+    "title": "The Trojan Horse story comes from ancient Greek legend",
+    "body": "It describes how Greek soldiers hid inside a wooden horse to infiltrate the city of Troy."
+  },
+  {
+    "id": "history-66",
+    "categoryId": "history",
+    "title": "The University of Bologna is often called the first university",
+    "body": "Founded in 1088, it's considered one of the oldest continuously operating universities in the world."
+  },
+  {
+    "id": "history-67",
+    "categoryId": "history",
+    "title": "Ancient Persia built an extensive road network to connect its empire",
+    "body": "The Royal Road allowed messengers and officials to travel quickly across vast distances."
+  },
+  {
+    "id": "history-68",
+    "categoryId": "history",
+    "title": "Constantinople fell to Ottoman forces in 1453",
+    "body": "This marked the end of the Byzantine Empire after more than a thousand years."
+  },
+  {
+    "id": "history-69",
+    "categoryId": "history",
+    "title": "The compass was invented in ancient China",
+    "body": "It was originally used for divination and geomancy before becoming a tool for navigation."
+  },
+  {
+    "id": "history-70",
+    "categoryId": "history",
+    "title": "The ancient Olympics paused wars so athletes could travel safely",
+    "body": "A sacred truce allowed competitors and spectators safe passage to and from the games in Greece."
+  },
+  {
+    "id": "history-71",
+    "categoryId": "history",
+    "title": "King Tutankhamun's tomb was found largely intact in 1922",
+    "body": "Archaeologist Howard Carter's discovery revealed an extraordinary collection of preserved treasures."
+  },
+  {
+    "id": "history-72",
+    "categoryId": "history",
+    "title": "The Rosetta Stone repeats the same text in three scripts",
+    "body": "Hieroglyphic, Demotic, and Greek versions of the same decree allowed scholars to finally decode hieroglyphs."
+  },
+  {
+    "id": "history-73",
+    "categoryId": "history",
+    "title": "The Byzantine Empire preserved ancient Greek and Roman knowledge",
+    "body": "It kept many classical texts and ideas alive for over a thousand years after Rome's fall in the west."
+  },
+  {
+    "id": "history-74",
+    "categoryId": "history",
+    "title": "Ancient Rome built an extensive system of aqueducts",
+    "body": "These structures carried water over long distances to supply cities and public baths."
+  },
+  {
+    "id": "history-75",
+    "categoryId": "history",
+    "title": "One of history's earliest peace treaties was signed around 1259 BCE",
+    "body": "It was agreed between the Egyptians and the Hittites after years of conflict."
+  },
+  {
+    "id": "history-76",
+    "categoryId": "history",
+    "title": "The Lighthouse of Alexandria was a Wonder of the Ancient World",
+    "body": "Known as the Pharos, it guided ships into the harbor of ancient Alexandria for centuries."
+  },
+  {
+    "id": "history-77",
+    "categoryId": "history",
+    "title": "Japan's samurai followed a code of conduct called bushido",
+    "body": "It emphasized loyalty, discipline, and honor as core values of the warrior class."
+  },
+  {
+    "id": "history-78",
+    "categoryId": "history",
+    "title": "The printing press helped fuel the Protestant Reformation",
+    "body": "It allowed religious texts and pamphlets to spread rapidly across 16th-century Europe."
+  },
+  {
+    "id": "history-79",
+    "categoryId": "history",
+    "title": "The ancient Indus Valley Civilization built advanced drainage systems",
+    "body": "Thousands of years ago, its cities featured surprisingly sophisticated urban water and sewage planning."
+  },
+  {
+    "id": "history-80",
+    "categoryId": "history",
+    "title": "Leonardo da Vinci sketched early concepts for flying machines",
+    "body": "Centuries before powered flight, his notebooks explored designs inspired by birds and mechanics."
+  },
+  {
+    "id": "history-81",
+    "categoryId": "history",
+    "title": "The Great Depression caused widespread economic hardship in the 1930s",
+    "body": "Its effects were felt across much of the world, leading to major shifts in economic policy."
+  },
+  {
+    "id": "history-82",
+    "categoryId": "history",
+    "title": "Edward Jenner developed the first successful vaccine in 1796",
+    "body": "His smallpox vaccine laid the foundation for modern immunology."
+  },
+  {
+    "id": "history-83",
+    "categoryId": "history",
+    "title": "Baghdad's House of Wisdom was a major center of learning",
+    "body": "During the Islamic Golden Age, scholars there translated and expanded upon Greek, Persian, and Indian knowledge."
+  },
+  {
+    "id": "history-84",
+    "categoryId": "history",
+    "title": "Marie Curie won Nobel Prizes in two different sciences",
+    "body": "She remains the only person to win Nobel Prizes in both physics and chemistry."
+  },
+  {
+    "id": "history-85",
+    "categoryId": "history",
+    "title": "French soldiers found the Rosetta Stone during Napoleon's Egypt campaign",
+    "body": "The discovery in 1799 later proved crucial to deciphering ancient Egyptian hieroglyphs."
+  },
+  {
+    "id": "history-86",
+    "categoryId": "history",
+    "title": "The Suez Canal connected the Mediterranean and Red Seas in 1869",
+    "body": "It dramatically shortened sea travel between Europe and Asia."
+  },
+  {
+    "id": "history-87",
+    "categoryId": "history",
+    "title": "The ancient Maya developed a highly accurate calendar system",
+    "body": "It was based on careful astronomical observation and remains impressive for its precision."
+  },
+  {
+    "id": "history-88",
+    "categoryId": "history",
+    "title": "The modern Olympic Games revived in Athens in 1896",
+    "body": "It marked the start of the international Olympic movement as we know it today."
+  },
+  {
+    "id": "history-89",
+    "categoryId": "history",
+    "title": "The Works Progress Administration employed millions during the Great Depression",
+    "body": "It funded public projects across the United States to provide jobs during the economic crisis."
+  },
+  {
+    "id": "history-90",
+    "categoryId": "history",
+    "title": "The Cold War was a decades-long standoff between two superpowers",
+    "body": "Political and military tension between the United States and the Soviet Union shaped much of the 20th century."
+  },
+  {
+    "id": "history-91",
+    "categoryId": "history",
+    "title": "Istanbul's name officially replaced Constantinople in the 20th century",
+    "body": "The informal name had actually been in use for centuries before it became official."
+  },
+  {
+    "id": "history-92",
+    "categoryId": "history",
+    "title": "The Kingdom of Kush once ruled over Egypt as pharaohs",
+    "body": "During the 25th Dynasty, Nubian kings governed a unified Egyptian and Kushite realm."
+  },
+  {
+    "id": "geography-43",
+    "categoryId": "geography",
+    "title": "The Mariana Trench is the deepest known point in the ocean",
+    "body": "It plunges to nearly 11,000 meters below sea level in the western Pacific."
+  },
+  {
+    "id": "geography-44",
+    "categoryId": "geography",
+    "title": "Brazil borders almost every South American country",
+    "body": "It shares a border with every country on the continent except Chile and Ecuador."
+  },
+  {
+    "id": "geography-45",
+    "categoryId": "geography",
+    "title": "The Sahara is the largest hot desert in the world",
+    "body": "It spans much of North Africa, covering an area comparable to the size of the United States."
+  },
+  {
+    "id": "geography-46",
+    "categoryId": "geography",
+    "title": "Kilimanjaro's summit has glaciers despite being near the equator",
+    "body": "Its high altitude keeps temperatures cold enough to sustain ice even in a tropical region."
+  },
+  {
+    "id": "geography-47",
+    "categoryId": "geography",
+    "title": "The Netherlands reclaimed large areas of land from the sea",
+    "body": "Extensive dikes and drainage systems turned former sea and wetland into usable land over centuries."
+  },
+  {
+    "id": "geography-48",
+    "categoryId": "geography",
+    "title": "Egypt's Nile Delta is one of the most densely farmed regions on Earth",
+    "body": "Fertile soil deposited by the Nile has supported agriculture there for thousands of years."
+  },
+  {
+    "id": "geography-49",
+    "categoryId": "geography",
+    "title": "The Falkland Islands sit in the South Atlantic",
+    "body": "They are a British overseas territory located off the coast of Argentina."
+  },
+  {
+    "id": "geography-50",
+    "categoryId": "geography",
+    "title": "Liechtenstein and Uzbekistan are the world's only doubly landlocked countries",
+    "body": "Both are surrounded entirely by other landlocked nations, requiring travel through at least two borders to reach the sea."
+  },
+  {
+    "id": "geography-51",
+    "categoryId": "geography",
+    "title": "The Amazon Rainforest spans nine countries",
+    "body": "Most of it lies in Brazil, but it also stretches into Peru, Colombia, and several other South American nations."
+  },
+  {
+    "id": "geography-52",
+    "categoryId": "geography",
+    "title": "Vatican City has its own postal service and currency",
+    "body": "Despite being the world's smallest country, it maintains several trappings of a full sovereign state."
+  },
+  {
+    "id": "geography-53",
+    "categoryId": "geography",
+    "title": "The Danube flows through more countries than any other river",
+    "body": "It passes through around ten European nations on its way to the Black Sea."
+  },
+  {
+    "id": "geography-54",
+    "categoryId": "geography",
+    "title": "Bangladesh has one of the highest population densities in the world",
+    "body": "Millions of people live within a relatively small land area along its river deltas."
+  },
+  {
+    "id": "geography-55",
+    "categoryId": "geography",
+    "title": "The Great Rift Valley stretches thousands of kilometers through East Africa",
+    "body": "It marks a region where tectonic plates are slowly pulling apart, gradually widening the valley."
+  },
+  {
+    "id": "geography-56",
+    "categoryId": "geography",
+    "title": "Lake Titicaca is one of the highest navigable lakes in the world",
+    "body": "It sits high in the Andes on the border between Peru and Bolivia."
+  },
+  {
+    "id": "geography-57",
+    "categoryId": "geography",
+    "title": "The Philippines is made up of more than 7,000 islands",
+    "body": "Only a fraction of them are permanently inhabited."
+  },
+  {
+    "id": "geography-58",
+    "categoryId": "geography",
+    "title": "The Trans-Siberian Railway is the longest railway line in the world",
+    "body": "It stretches nearly 9,300 kilometers across Russia, connecting Moscow to the Pacific coast."
+  },
+  {
+    "id": "geography-59",
+    "categoryId": "geography",
+    "title": "Chile is one of the longest, narrowest countries in the world",
+    "body": "It stretches over 4,300 kilometers from north to south along South America's western coast."
+  },
+  {
+    "id": "geography-60",
+    "categoryId": "geography",
+    "title": "The Congo River is the deepest river in the world",
+    "body": "In some stretches it plunges to depths exceeding 220 meters."
+  },
+  {
+    "id": "geography-61",
+    "categoryId": "geography",
+    "title": "Svalbard has more polar bears than people",
+    "body": "This remote Norwegian archipelago is one of the few places where the bears outnumber human residents."
+  },
+  {
+    "id": "geography-62",
+    "categoryId": "geography",
+    "title": "The Strait of Malacca is one of the world's busiest shipping routes",
+    "body": "A huge share of global trade passes through this narrow passage between Malaysia and Indonesia."
+  },
+  {
+    "id": "geography-63",
+    "categoryId": "geography",
+    "title": "Ethiopia uses its own unique calendar",
+    "body": "It runs several years behind the widely used Gregorian calendar."
+  },
+  {
+    "id": "geography-64",
+    "categoryId": "geography",
+    "title": "The Danakil Depression is one of the hottest places on Earth",
+    "body": "Located in Ethiopia, it's also one of the most geologically active regions on the planet."
+  },
+  {
+    "id": "geography-65",
+    "categoryId": "geography",
+    "title": "San Marino is one of the oldest surviving sovereign states",
+    "body": "It claims a founding date of 301 CE, making it one of the world's oldest republics."
+  },
+  {
+    "id": "geography-66",
+    "categoryId": "geography",
+    "title": "The Galápagos Islands inspired Darwin's theory of evolution",
+    "body": "Observing the islands' unique wildlife shaped his groundbreaking ideas about natural selection."
+  },
+  {
+    "id": "geography-67",
+    "categoryId": "geography",
+    "title": "The Yangtze is the longest river in Asia",
+    "body": "It's also the third longest river in the world, flowing entirely within China."
+  },
+  {
+    "id": "geography-68",
+    "categoryId": "geography",
+    "title": "Australia has more venomous snake species than any other country",
+    "body": "Many of the world's most venomous snakes are found across the Australian continent."
+  },
+  {
+    "id": "geography-69",
+    "categoryId": "geography",
+    "title": "Lake Victoria is Africa's largest lake by surface area",
+    "body": "It's shared by Kenya, Uganda, and Tanzania and is a vital resource for the region."
+  },
+  {
+    "id": "geography-70",
+    "categoryId": "geography",
+    "title": "The Danube, Rhine, and Volga are among Europe's most significant rivers",
+    "body": "Each has played a major historical role in trade, transportation, and settlement across the continent."
+  },
+  {
+    "id": "geography-71",
+    "categoryId": "geography",
+    "title": "Antarctica has no permanent human residents",
+    "body": "Only rotating teams of scientific researchers live there temporarily at research stations."
+  },
+  {
+    "id": "geography-72",
+    "categoryId": "geography",
+    "title": "The Kalahari Desert spans three southern African countries",
+    "body": "It covers large parts of Botswana, Namibia, and South Africa."
+  },
+  {
+    "id": "geography-73",
+    "categoryId": "geography",
+    "title": "About 80% of Greenland is covered by an ice sheet",
+    "body": "This massive ice layer holds a significant portion of the world's fresh water."
+  },
+  {
+    "id": "geography-74",
+    "categoryId": "geography",
+    "title": "The Panama Canal connects the Atlantic and Pacific Oceans",
+    "body": "Completed in 1914, it dramatically shortened shipping routes through Central America."
+  },
+  {
+    "id": "geography-75",
+    "categoryId": "geography",
+    "title": "Portugal is the westernmost country in mainland Europe",
+    "body": "Its Atlantic coastline marks the continent's far western edge."
+  },
+  {
+    "id": "geography-76",
+    "categoryId": "geography",
+    "title": "The Ural Mountains mark the traditional border between Europe and Asia",
+    "body": "This mountain range has long served as a geographic dividing line between the two continents."
+  },
+  {
+    "id": "geography-77",
+    "categoryId": "geography",
+    "title": "Madagascar is home to thousands of species found nowhere else",
+    "body": "Its long isolation from mainland Africa allowed unique wildlife, like lemurs, to evolve separately."
+  },
+  {
+    "id": "geography-78",
+    "categoryId": "geography",
+    "title": "The Danube Delta is one of Europe's largest wetlands",
+    "body": "It forms where the Danube River meets the Black Sea, supporting rich and diverse ecosystems."
+  },
+  {
+    "id": "geography-79",
+    "categoryId": "geography",
+    "title": "Lake Chad has shrunk dramatically in recent decades",
+    "body": "Once one of Africa's largest lakes, it has lost most of its surface area due to climate and water use changes."
+  },
+  {
+    "id": "geography-80",
+    "categoryId": "geography",
+    "title": "The Bering Strait separates Russia and Alaska by less than 90 kilometers",
+    "body": "At its narrowest point, the two continents are close enough to be visible from each other on a clear day."
+  },
+  {
+    "id": "geography-81",
+    "categoryId": "geography",
+    "title": "South Sudan became the world's newest widely recognized country in 2011",
+    "body": "It gained independence after decades of conflict within Sudan."
+  },
+  {
+    "id": "geography-82",
+    "categoryId": "geography",
+    "title": "The Alps stretch across eight European countries",
+    "body": "The mountain range spans nations including France, Switzerland, Italy, and Austria."
+  },
+  {
+    "id": "geography-83",
+    "categoryId": "geography",
+    "title": "Lake Malawi holds more fish species than almost any other lake",
+    "body": "Its waters are home to an extraordinary diversity of cichlid fish species."
+  },
+  {
+    "id": "geography-84",
+    "categoryId": "geography",
+    "title": "Venice is built on more than 100 small islands",
+    "body": "Canals and bridges connect the islands, replacing streets across much of the city."
+  },
+  {
+    "id": "geography-85",
+    "categoryId": "geography",
+    "title": "The Tibetan Plateau is called the 'Roof of the World'",
+    "body": "Its extremely high average elevation makes it one of the highest regions on Earth."
+  },
+  {
+    "id": "geography-86",
+    "categoryId": "geography",
+    "title": "New Zealand is one of the first places to see each new day",
+    "body": "Its position near the International Date Line means it experiences sunrise before most of the world."
+  },
+  {
+    "id": "geography-87",
+    "categoryId": "geography",
+    "title": "The Hawaiian Islands formed over a volcanic hotspot",
+    "body": "As the Pacific plate slowly moved over a fixed hotspot, it created a chain of volcanic islands."
+  },
+  {
+    "id": "geography-88",
+    "categoryId": "geography",
+    "title": "The Red Sea is one of the saltiest bodies of water in the world",
+    "body": "High evaporation rates and limited water exchange with the ocean concentrate its salinity."
+  },
+  {
+    "id": "geography-89",
+    "categoryId": "geography",
+    "title": "Luxembourg has one of the highest GDPs per capita in the world",
+    "body": "Despite being one of the smallest countries by both size and population, it's an outsized financial center."
+  },
+  {
+    "id": "geography-90",
+    "categoryId": "geography",
+    "title": "The Yellow River gets its name from the silt it carries",
+    "body": "Sediment picked up along its course gives the water a distinctive yellowish color."
+  },
+  {
+    "id": "geography-91",
+    "categoryId": "geography",
+    "title": "Iceland sits on the boundary of two tectonic plates",
+    "body": "It straddles the Eurasian and North American plates, making it a hotspot for volcanic and geothermal activity."
+  },
+  {
+    "id": "geography-92",
+    "categoryId": "geography",
+    "title": "Papua New Guinea is one of the most linguistically diverse countries",
+    "body": "More than 800 languages are spoken across its many isolated communities."
+  },
+  {
+    "id": "art-43",
+    "categoryId": "art",
+    "title": "Salvador Dalí's mustache became one of his signature trademarks",
+    "body": "Its distinctive upturned shape made it instantly recognizable alongside his surrealist artwork."
+  },
+  {
+    "id": "art-44",
+    "categoryId": "art",
+    "title": "The word 'museum' comes from an ancient Greek word for a temple to the Muses",
+    "body": "'Mouseion' referred to a place dedicated to the arts and sciences, the root of the modern term."
+  },
+  {
+    "id": "art-45",
+    "categoryId": "art",
+    "title": "Frida Kahlo often wove Mexican folk symbols into her paintings",
+    "body": "Her work drew heavily on traditional Mexican culture, imagery, and personal identity."
+  },
+  {
+    "id": "art-46",
+    "categoryId": "art",
+    "title": "Renoir kept painting even after arthritis limited his hands",
+    "body": "In his later years, he adapted his technique to continue creating despite the physical challenge."
+  },
+  {
+    "id": "art-47",
+    "categoryId": "art",
+    "title": "'Still life' refers to art depicting inanimate objects",
+    "body": "Fruit, flowers, and household items are common subjects in this long-standing genre."
+  },
+  {
+    "id": "art-48",
+    "categoryId": "art",
+    "title": "Van Gogh painted 'Starry Night' from memory and imagination",
+    "body": "He created the famous night sky scene while staying at an asylum in southern France."
+  },
+  {
+    "id": "art-49",
+    "categoryId": "art",
+    "title": "The Sistine Chapel ceiling was painted using true fresco technique",
+    "body": "Pigment was applied directly to wet plaster, bonding with the wall as it dried."
+  },
+  {
+    "id": "art-50",
+    "categoryId": "art",
+    "title": "Edgar Degas is best known for his ballet dancer paintings",
+    "body": "He captured dancers in motion and rehearsal more than in formal performance."
+  },
+  {
+    "id": "art-51",
+    "categoryId": "art",
+    "title": "The Parthenon once featured elaborate sculptural decoration",
+    "body": "Much of its original sculpture has since been lost, damaged, or relocated to museums."
+  },
+  {
+    "id": "art-52",
+    "categoryId": "art",
+    "title": "Caravaggio was known for dramatic contrasts of light and shadow",
+    "body": "This technique, called chiaroscuro, gave his paintings intense, theatrical depth."
+  },
+  {
+    "id": "art-53",
+    "categoryId": "art",
+    "title": "Calligraphy has been practiced for centuries across many cultures",
+    "body": "China, Japan, and the Islamic world all developed rich traditions of decorative handwriting as an art form."
+  },
+  {
+    "id": "art-54",
+    "categoryId": "art",
+    "title": "Picasso co-founded the Cubist movement",
+    "body": "Alongside French artist Georges Braque, he helped pioneer this radical new approach to form and perspective."
+  },
+  {
+    "id": "art-55",
+    "categoryId": "art",
+    "title": "The term 'Impressionism' came from a dismissive review",
+    "body": "A critic used the word mockingly after seeing Monet's painting 'Impression, Sunrise,' and the name stuck."
+  },
+  {
+    "id": "art-56",
+    "categoryId": "art",
+    "title": "Gustave Courbet helped pioneer the Realist art movement",
+    "body": "He focused on depicting everyday life and ordinary people rather than idealized or historical subjects."
+  },
+  {
+    "id": "art-57",
+    "categoryId": "art",
+    "title": "The Venus de Milo is missing both of its arms",
+    "body": "The ancient Greek statue was already missing its arms when it was rediscovered in the 19th century."
+  },
+  {
+    "id": "art-58",
+    "categoryId": "art",
+    "title": "Keith Haring's art style was shaped by graffiti and subway drawings",
+    "body": "His bold, simple figures became icons of 1980s New York street and pop art."
+  },
+  {
+    "id": "art-59",
+    "categoryId": "art",
+    "title": "Fresco painting requires working fast before the plaster dries",
+    "body": "Artists must apply pigment while the wall surface is still wet for the color to bond permanently."
+  },
+  {
+    "id": "art-60",
+    "categoryId": "art",
+    "title": "Toulouse-Lautrec captured Parisian nightlife in vivid posters",
+    "body": "His late 19th-century artwork became closely associated with cabaret culture and the Moulin Rouge."
+  },
+  {
+    "id": "art-61",
+    "categoryId": "art",
+    "title": "The Rijksmuseum holds a major collection of Dutch Golden Age paintings",
+    "body": "Located in Amsterdam, it houses masterpieces from artists like Rembrandt and Vermeer."
+  },
+  {
+    "id": "art-62",
+    "categoryId": "art",
+    "title": "M.C. Escher created mathematically inspired impossible structures",
+    "body": "His artwork explored optical illusions, tessellations, and architecture that couldn't exist in reality."
+  },
+  {
+    "id": "art-63",
+    "categoryId": "art",
+    "title": "The Prado Museum houses one of the finest collections of Spanish art",
+    "body": "Located in Madrid, it holds major works by Velázquez, Goya, and El Greco."
+  },
+  {
+    "id": "art-64",
+    "categoryId": "art",
+    "title": "Georges Seurat pioneered pointillism",
+    "body": "He built images out of small, distinct dots of color that blend together when viewed from a distance."
+  },
+  {
+    "id": "art-65",
+    "categoryId": "art",
+    "title": "The word 'fresco' means 'fresh' in Italian",
+    "body": "It refers to the technique of painting directly onto fresh, wet plaster."
+  },
+  {
+    "id": "art-66",
+    "categoryId": "art",
+    "title": "Edvard Munch created more than a thousand paintings in his lifetime",
+    "body": "His prolific output also included numerous prints and drawings beyond his famous works."
+  },
+  {
+    "id": "art-67",
+    "categoryId": "art",
+    "title": "Mosaic art uses small pieces of glass, stone, or tile",
+    "body": "Ancient artists arranged these fragments to form detailed images and decorative patterns."
+  },
+  {
+    "id": "art-68",
+    "categoryId": "art",
+    "title": "The 'Arnolfini Portrait' features a famous small convex mirror",
+    "body": "Jan van Eyck's painting includes a mirror that reflects the scene from behind, a striking technical detail."
+  },
+  {
+    "id": "art-69",
+    "categoryId": "art",
+    "title": "'The Birth of Venus' is a landmark of the Italian Renaissance",
+    "body": "Sandro Botticelli's painting is one of the most recognizable works from that era."
+  },
+  {
+    "id": "art-70",
+    "categoryId": "art",
+    "title": "The word 'canvas' shares its origin with 'cannabis'",
+    "body": "It originally referred to a coarse fabric traditionally made from hemp."
+  },
+  {
+    "id": "art-71",
+    "categoryId": "art",
+    "title": "'Las Meninas' is celebrated for its complex composition",
+    "body": "Diego Velázquez's painting plays with perspective and the viewer's role in unusual, influential ways."
+  },
+  {
+    "id": "art-72",
+    "categoryId": "art",
+    "title": "Surrealism aimed to unlock the power of the unconscious mind",
+    "body": "The movement drew inspiration from dreams and psychology to create strange, imaginative imagery."
+  },
+  {
+    "id": "art-73",
+    "categoryId": "art",
+    "title": "Jean-Michel Basquiat rose from graffiti artist to global fame",
+    "body": "He became a leading figure in 1980s New York's art scene after starting out with street art."
+  },
+  {
+    "id": "art-74",
+    "categoryId": "art",
+    "title": "The Statue of Liberty was designed by a French sculptor",
+    "body": "Frédéric Auguste Bartholdi created the design before it was gifted to the United States."
+  },
+  {
+    "id": "art-75",
+    "categoryId": "art",
+    "title": "Hokusai kept creating art well into his eighties",
+    "body": "He referred to himself as 'the old man mad about painting' late in his prolific career."
+  },
+  {
+    "id": "art-76",
+    "categoryId": "art",
+    "title": "Kandinsky reportedly saw colors when he heard music",
+    "body": "This condition, known as synesthesia, may have influenced his pioneering abstract art."
+  },
+  {
+    "id": "art-77",
+    "categoryId": "art",
+    "title": "The word 'gallery' originally meant a long room in a palace",
+    "body": "It described a narrow hallway used for walking or displaying artwork in European architecture."
+  },
+  {
+    "id": "art-78",
+    "categoryId": "art",
+    "title": "Titian was among the most influential painters of the Venetian school",
+    "body": "His work during the Renaissance shaped the direction of Venetian art for generations."
+  },
+  {
+    "id": "art-79",
+    "categoryId": "art",
+    "title": "Medieval cathedrals showcased masterful stained glass craftsmanship",
+    "body": "Elaborate windows told biblical stories through colored light for largely illiterate congregations."
+  },
+  {
+    "id": "art-80",
+    "categoryId": "art",
+    "title": "Ai Weiwei blends contemporary art with political activism",
+    "body": "The Chinese artist's work often addresses human rights and freedom of expression."
+  },
+  {
+    "id": "art-81",
+    "categoryId": "art",
+    "title": "The Mona Lisa's fame grew dramatically after it was stolen in 1911",
+    "body": "The high-profile theft from the Louvre turned the painting into a global sensation."
+  },
+  {
+    "id": "art-82",
+    "categoryId": "art",
+    "title": "Raphael died at just 37 but left a huge body of work",
+    "body": "Despite his short life, he remains one of the most influential painters of the Italian Renaissance."
+  },
+  {
+    "id": "art-83",
+    "categoryId": "art",
+    "title": "Ancient Greek pottery often depicted myths and daily life",
+    "body": "Painted vases and vessels served both practical and decorative, storytelling purposes."
+  },
+  {
+    "id": "art-84",
+    "categoryId": "art",
+    "title": "Munch's family experienced significant illness and loss",
+    "body": "These personal tragedies deeply shaped the emotional themes running through much of his work."
+  },
+  {
+    "id": "art-85",
+    "categoryId": "art",
+    "title": "The Metropolitan Museum of Art is among the largest museums in the world",
+    "body": "Its collection in New York spans thousands of years of art and culture from across the globe."
+  },
+  {
+    "id": "art-86",
+    "categoryId": "art",
+    "title": "Grant Wood was inspired by a small house in Iowa",
+    "body": "The modest white farmhouse he saw became the backdrop for his famous painting 'American Gothic.'"
+  },
+  {
+    "id": "art-87",
+    "categoryId": "art",
+    "title": "Pointillism influenced later approaches to color and pattern",
+    "body": "Its technique of building images from tiny dots has echoes in some modern digital pixel art."
+  },
+  {
+    "id": "art-88",
+    "categoryId": "art",
+    "title": "Banksy's true identity remains publicly unconfirmed",
+    "body": "Despite widespread speculation, the street artist has kept their real name a closely guarded secret."
+  },
+  {
+    "id": "art-89",
+    "categoryId": "art",
+    "title": "The Barnes Foundation holds an extensive Impressionist art collection",
+    "body": "Located in Philadelphia, it's known for its unconventional, dense style of displaying artwork."
+  },
+  {
+    "id": "art-90",
+    "categoryId": "art",
+    "title": "Ancient Egyptian tomb paintings followed strict artistic conventions",
+    "body": "Figures were typically shown with heads in profile and bodies facing forward, a stylized formula used for centuries."
+  },
+  {
+    "id": "art-91",
+    "categoryId": "art",
+    "title": "The word 'pastel' describes both a medium and a color palette",
+    "body": "It refers to soft coloring sticks as well as the pale, muted tones often associated with them."
+  },
+  {
+    "id": "art-92",
+    "categoryId": "art",
+    "title": "Leonardo da Vinci left many projects unfinished",
+    "body": "His restless curiosity often pulled him toward scientific studies alongside his artistic work."
   }
 ]

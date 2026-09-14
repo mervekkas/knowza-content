@@ -1,27 +1,42 @@
 [
   {
     "id": "science",
-    "name": "Science",
-    "emoji": "🔬"
+    "emoji": "🔬",
+    "names": {
+      "en": "Science",
+      "tr": "Bilim"
+    }
   },
   {
     "id": "history",
-    "name": "History",
-    "emoji": "🏛️"
+    "emoji": "🏛️",
+    "names": {
+      "en": "History",
+      "tr": "Tarih"
+    }
   },
   {
     "id": "geography",
-    "name": "Geography",
-    "emoji": "🌍"
+    "emoji": "🌍",
+    "names": {
+      "en": "Geography",
+      "tr": "Coğrafya"
+    }
   },
   {
     "id": "art",
-    "name": "Art",
-    "emoji": "🎨"
+    "emoji": "🎨",
+    "names": {
+      "en": "Art",
+      "tr": "Sanat"
+    }
   },
   {
     "id": "nature",
-    "name": "Nature",
-    "emoji": "🌿"
+    "emoji": "🌿",
+    "names": {
+      "en": "Nature",
+      "tr": "Doğa"
+    }
   }
 ]
